@@ -1,0 +1,3512 @@
+fileFormatVersion: 2
+guid: 573a41ef920a13a4a804912f7b674492
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MC_Hyrule_Warrior_Items_0
+    21300002: MC_Hyrule_Warrior_Items_1
+    21300004: MC_Hyrule_Warrior_Items_2
+    21300006: MC_Hyrule_Warrior_Items_3
+    21300008: MC_Hyrule_Warrior_Items_4
+    21300010: MC_Hyrule_Warrior_Items_5
+    21300012: MC_Hyrule_Warrior_Items_6
+    21300014: MC_Hyrule_Warrior_Items_7
+    21300016: MC_Hyrule_Warrior_Items_8
+    21300018: MC_Hyrule_Warrior_Items_9
+    21300020: MC_Hyrule_Warrior_Items_10
+    21300022: MC_Hyrule_Warrior_Items_11
+    21300024: MC_Hyrule_Warrior_Items_12
+    21300026: MC_Hyrule_Warrior_Items_13
+    21300028: MC_Hyrule_Warrior_Items_14
+    21300030: MC_Hyrule_Warrior_Items_15
+    21300032: MC_Hyrule_Warrior_Items_16
+    21300034: MC_Hyrule_Warrior_Items_17
+    21300036: MC_Hyrule_Warrior_Items_18
+    21300038: MC_Hyrule_Warrior_Items_19
+    21300040: MC_Hyrule_Warrior_Items_20
+    21300042: MC_Hyrule_Warrior_Items_21
+    21300044: MC_Hyrule_Warrior_Items_22
+    21300046: MC_Hyrule_Warrior_Items_23
+    21300048: MC_Hyrule_Warrior_Items_24
+    21300050: MC_Hyrule_Warrior_Items_25
+    21300052: MC_Hyrule_Warrior_Items_26
+    21300054: MC_Hyrule_Warrior_Items_27
+    21300056: MC_Hyrule_Warrior_Items_28
+    21300058: MC_Hyrule_Warrior_Items_29
+    21300060: MC_Hyrule_Warrior_Items_30
+    21300062: MC_Hyrule_Warrior_Items_31
+    21300064: MC_Hyrule_Warrior_Items_32
+    21300066: MC_Hyrule_Warrior_Items_33
+    21300068: MC_Hyrule_Warrior_Items_34
+    21300070: MC_Hyrule_Warrior_Items_35
+    21300072: MC_Hyrule_Warrior_Items_36
+    21300074: MC_Hyrule_Warrior_Items_37
+    21300076: MC_Hyrule_Warrior_Items_38
+    21300078: MC_Hyrule_Warrior_Items_39
+    21300080: MC_Hyrule_Warrior_Items_40
+    21300082: MC_Hyrule_Warrior_Items_41
+    21300084: MC_Hyrule_Warrior_Items_42
+    21300086: MC_Hyrule_Warrior_Items_43
+    21300088: MC_Hyrule_Warrior_Items_44
+    21300090: MC_Hyrule_Warrior_Items_45
+    21300092: MC_Hyrule_Warrior_Items_46
+    21300094: MC_Hyrule_Warrior_Items_47
+    21300096: MC_Hyrule_Warrior_Items_48
+    21300098: MC_Hyrule_Warrior_Items_49
+    21300100: MC_Hyrule_Warrior_Items_50
+    21300102: MC_Hyrule_Warrior_Items_51
+    21300104: MC_Hyrule_Warrior_Items_52
+    21300106: MC_Hyrule_Warrior_Items_53
+    21300108: MC_Hyrule_Warrior_Items_54
+    21300110: MC_Hyrule_Warrior_Items_55
+    21300112: MC_Hyrule_Warrior_Items_56
+    21300114: MC_Hyrule_Warrior_Items_57
+    21300116: MC_Hyrule_Warrior_Items_58
+    21300118: MC_Hyrule_Warrior_Items_59
+    21300120: MC_Hyrule_Warrior_Items_60
+    21300122: MC_Hyrule_Warrior_Items_61
+    21300124: MC_Hyrule_Warrior_Items_62
+    21300126: MC_Hyrule_Warrior_Items_63
+    21300128: MC_Hyrule_Warrior_Items_64
+    21300130: MC_Hyrule_Warrior_Items_65
+    21300132: MC_Hyrule_Warrior_Items_66
+    21300134: MC_Hyrule_Warrior_Items_67
+    21300136: MC_Hyrule_Warrior_Items_68
+    21300138: MC_Hyrule_Warrior_Items_69
+    21300140: MC_Hyrule_Warrior_Items_70
+    21300142: MC_Hyrule_Warrior_Items_71
+    21300144: MC_Hyrule_Warrior_Items_72
+    21300146: MC_Hyrule_Warrior_Items_73
+    21300148: MC_Hyrule_Warrior_Items_74
+    21300150: MC_Hyrule_Warrior_Items_75
+    21300152: MC_Hyrule_Warrior_Items_76
+    21300154: MC_Hyrule_Warrior_Items_77
+    21300156: MC_Hyrule_Warrior_Items_78
+    21300158: MC_Hyrule_Warrior_Items_79
+    21300160: MC_Hyrule_Warrior_Items_80
+    21300162: MC_Hyrule_Warrior_Items_81
+    21300164: MC_Hyrule_Warrior_Items_82
+    21300166: MC_Hyrule_Warrior_Items_83
+    21300168: MC_Hyrule_Warrior_Items_84
+    21300170: MC_Hyrule_Warrior_Items_85
+    21300172: MC_Hyrule_Warrior_Items_86
+    21300174: MC_Hyrule_Warrior_Items_87
+    21300176: MC_Hyrule_Warrior_Items_88
+    21300178: MC_Hyrule_Warrior_Items_89
+    21300180: MC_Hyrule_Warrior_Items_90
+    21300182: MC_Hyrule_Warrior_Items_91
+    21300184: MC_Hyrule_Warrior_Items_92
+    21300186: MC_Hyrule_Warrior_Items_93
+    21300188: MC_Hyrule_Warrior_Items_94
+    21300190: MC_Hyrule_Warrior_Items_95
+    21300192: MC_Hyrule_Warrior_Items_96
+    21300194: MC_Hyrule_Warrior_Items_97
+    21300196: MC_Hyrule_Warrior_Items_98
+    21300198: MC_Hyrule_Warrior_Items_99
+    21300200: MC_Hyrule_Warrior_Items_100
+    21300202: MC_Hyrule_Warrior_Items_101
+    21300204: MC_Hyrule_Warrior_Items_102
+    21300206: MC_Hyrule_Warrior_Items_103
+    21300208: MC_Hyrule_Warrior_Items_104
+    21300210: MC_Hyrule_Warrior_Items_105
+    21300212: MC_Hyrule_Warrior_Items_106
+    21300214: MC_Hyrule_Warrior_Items_107
+    21300216: MC_Hyrule_Warrior_Items_108
+    21300218: MC_Hyrule_Warrior_Items_109
+    21300220: MC_Hyrule_Warrior_Items_110
+    21300222: MC_Hyrule_Warrior_Items_111
+    21300224: MC_Hyrule_Warrior_Items_112
+    21300226: MC_Hyrule_Warrior_Items_113
+    21300228: MC_Hyrule_Warrior_Items_114
+    21300230: MC_Hyrule_Warrior_Items_115
+    21300232: MC_Hyrule_Warrior_Items_116
+    21300234: MC_Hyrule_Warrior_Items_117
+    21300236: MC_Hyrule_Warrior_Items_118
+    21300238: MC_Hyrule_Warrior_Items_119
+    21300240: MC_Hyrule_Warrior_Items_120
+    21300242: MC_Hyrule_Warrior_Items_121
+    21300244: MC_Hyrule_Warrior_Items_122
+    21300246: MC_Hyrule_Warrior_Items_123
+    21300248: MC_Hyrule_Warrior_Items_124
+    21300250: MC_Hyrule_Warrior_Items_125
+    21300252: MC_Hyrule_Warrior_Items_126
+    21300254: MC_Hyrule_Warrior_Items_127
+    21300256: MC_Hyrule_Warrior_Items_128
+    21300258: MC_Hyrule_Warrior_Items_129
+    21300260: MC_Hyrule_Warrior_Items_130
+    21300262: MC_Hyrule_Warrior_Items_131
+    21300264: MC_Hyrule_Warrior_Items_132
+    21300266: MC_Hyrule_Warrior_Items_133
+    21300268: MC_Hyrule_Warrior_Items_134
+    21300270: MC_Hyrule_Warrior_Items_135
+    21300272: MC_Hyrule_Warrior_Items_136
+    21300274: MC_Hyrule_Warrior_Items_137
+    21300276: MC_Hyrule_Warrior_Items_138
+    21300278: MC_Hyrule_Warrior_Items_139
+    21300280: MC_Hyrule_Warrior_Items_140
+    21300282: MC_Hyrule_Warrior_Items_141
+    21300284: MC_Hyrule_Warrior_Items_142
+    21300286: MC_Hyrule_Warrior_Items_143
+    21300288: MC_Hyrule_Warrior_Items_144
+    21300290: MC_Hyrule_Warrior_Items_145
+    21300292: MC_Hyrule_Warrior_Items_146
+    21300294: MC_Hyrule_Warrior_Items_147
+    21300296: MC_Hyrule_Warrior_Items_148
+    21300298: MC_Hyrule_Warrior_Items_149
+    21300300: MC_Hyrule_Warrior_Items_150
+    21300302: MC_Hyrule_Warrior_Items_151
+    21300304: MC_Hyrule_Warrior_Items_152
+    21300306: MC_Hyrule_Warrior_Items_153
+    21300308: MC_Hyrule_Warrior_Items_154
+    21300310: MC_Hyrule_Warrior_Items_155
+    21300312: MC_Hyrule_Warrior_Items_156
+    21300314: MC_Hyrule_Warrior_Items_157
+    21300316: MC_Hyrule_Warrior_Items_158
+    21300318: MC_Hyrule_Warrior_Items_159
+    21300320: MC_Hyrule_Warrior_Items_160
+    21300322: MC_Hyrule_Warrior_Items_161
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97af068548e84564ba8144876adff513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfebdf9c2f14074fbf541635b8f3583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac0036ebb743f4094510c4529b881d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499eaf8a74a322043b69ab74f3cb1470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e27b528f1c164e45bb5bda1b30662a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeb54b465a737e4aa1b9cb831635ddc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c8ece6a52fb194ba6bcce7091fe353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8d766731cb0e4e907ca1103119353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b7dbbf1fac45344937b904cdac394f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62ac8d7b4842974997207fd643bfe5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924bc39d20f167d4e936d62244743348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbce080759ed014490318e7af9a0825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3456da6e94c13f48b582ce8b0fb5620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ef3f3649e063439fdfc16f3a6ba66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3b314d78122f545a90d7dd7eb416ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46dec1e16ff2d74aa1410f7686db3e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 137
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f24821b854a94c96ebee24e374f4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929f5bc9c323db4ea8613a5c051d345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133da1ddf4e611246afe76378641adaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36e2767b542f0745845aaafa55f45f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fc37713ca68fc42a5ab58d820a8366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004838e0f9eb1c640bfd321c5e82161f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40184dfd07981f149b5bcdf3de3744bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03ae7fea47690846b951ddaf3be8ad6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e08bb7afe217c04093918c28511526b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7b54584ab6eb44c97ffa5b3db15a46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bf60d0906cc1a41bc34cd3d0968046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf7e6f57bc82942a45b203c5815292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba245d1093a4bca43a9de501d02344cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02d3b2d1e757f043afd37432a3181ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6cd2df0dd7d214cb66452378a44e5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5796a41976ac4364d8443913008d1f4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34ed1011d747824796f76fe10ac870b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8efddec8b1b244a8f6eca7f55ad06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7a9b226527fc48a99296c801765e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0956a0ff2263fa443a26e4ed2054fd75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d17b1bbd2d3af4a8be76d5bd9f0eaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6413d62c226d60046858541966ba81e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd8461f4bcd94459f4dcd00e98c0df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c5e88b22e5faa478875a51452d5ec6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2c888455b771e40af754eb0487b592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_41
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f342f775fd8644d9d7f49bc7331bad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ed5aeed428d514d859d4942f790702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cf0ec24ad78aa4d9754db3bffc96c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f33be98dda994d46b0cfedd2b6aefae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_45
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5ca3ecea6ee7f41b528aa725ab40ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb612a9e38aa9848887e2b5c38ed040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_47
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba43e50b9711d634ca0caa3c8e7b6b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8094296a22d5047962d71b72e286bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b665be418d4ab044791972c4771c1c49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e793bda0d77454eac8ae811c3af708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdea725b6841d74687ee448d3b515fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a51725304daf94696e4072aebe42ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b1031325a44914cb1c23a13539de84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db8b2204b7ef2428be9e27dbc8d949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585284792c8f0304ca7c318256d9ebd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c8255168214f44d88a8ae0875bf7e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329799defb6db9d4f9439a6764be271f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_58
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa8cffd8a0bb704aa63757a5f24dcd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75102f79413b04749975b906ae7843a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_60
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a789a0aec01e54e8cf2495c61dc6e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88b541c8ca671e4389900f245f70086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_62
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fceb01a65fa3764490967e772b3412c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_63
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eac46bf7eb5f5f4385bfa078ae24d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a7be4e52296a4e86c0de1b7c70289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 86
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c01c76d4ddc60b47ab8a4016fc986fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a400544cf35ae1409b06e031467a672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0837445b2e1fd9f42881c0228fa23bd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5111af00aeed97b409f47e88386560f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_69
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f743955b00e79ca4a90cb093c60eec7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0615fb07b403b41943c010e5f83aad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9aef786d1140540b2ec01b9715794b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d6aaeee7c1fcc46a159b92233ec556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482fd2e1525cbb84281145bd8e1317fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cef485c33514714ba1723b69647b5a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_75
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec052fc5ba0a2544a3b8e25b1447224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_76
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3dfe13b0d88c943add665365ff6c22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_77
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d983dfd1c7b13244b8234fe3f220cd4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3ae073b8cca794dbcec8e655d95d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_79
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73edb50a1c59f35499a1603627505cad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_80
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6018bd44591b0b48a9b39fc657c071d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_81
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3c496bb081b8b4d9be4b78c4676078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15835b9303dab8740a656f0d8f7c9244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1314e630db07f4baa7fcaae513abdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3e3611ac9779d4e93905de3c59fa42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_85
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9518d64b241759e4db5459d2d2844585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_86
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495afa65098f47d43ba2118cca24165f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_87
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418bcc2c16706794faafd8c1dea05f41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_88
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae4410c6c0d3144694b8daf1e16a6d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de740c38879fc342aea40352fddb31b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_90
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c5646e38399ef4681d3d3a4b024b2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_91
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493420e1ec257b3428900e0260d265f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_92
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261c5f36afbde9443a56a2f361bc3dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_93
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40afd71a343be4b895c55e8d68b7c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_94
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b270dcfed594d6447aaecd27405b8a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_95
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158ce56aee99f614398ece5b2287e873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_96
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0a2c2ac1d5784c8abb048c71cd91d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_97
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad43055e192164c9570dfbeda25148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_98
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdac584d0752b149a1707db52be3f98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_99
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e717e6721703c743a53d3815ef47085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_100
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e890076bca6acec438f0620e0f261131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_101
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf0e86c1765934babd9a63b268b716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_102
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1419826f3ef773b49b4bd9b843a70b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8da6c1d0b89d548bf4e99c11eeacf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_104
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da65c6a04e9d0fb47bdb8fd11155d69b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_105
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af798c2176301d44f8a5b9e8191d50f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_106
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad04325715b4d641afcd9d9f3e51f3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_107
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6a2d1993e451468764806eedbdeed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_108
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2d0b026fa0a7548b3745934f6aab07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_109
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020f6289fc7101143b15c0f77f0c7e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_110
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c66d39f1b10914288aa8019e4a17c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_111
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d013f1920cd0934c99706f97cfbc16d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_112
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeac251338e6f346bcbe19cb66a1f0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_113
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb57f723857e9640bf0b6bbbae6015e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_114
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e30c751a34c07140adee9e72e3fd0ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_115
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b50423bfede7b4fb2071c4a3cd4174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_116
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1b5db7a22fdf348afec8d8c04357ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_117
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9a9d67640719d4ab6642af3a03a2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_118
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc05aaa62aff9964bae6870126cbe84e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_119
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d06b592718e64bbced0d45c9ad081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_120
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9899eca6e314b6148907d0d797bdaa4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_121
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59408d136c101c94580477075e1e5b9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_122
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 35
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb73de30eba0b24aba2a0686b67bb2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5aefa9e6d60664ba5db4c8d8bb4aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_124
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587fe23eb58b61d46afc2aaf2f3391ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_125
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf75892d5a70e346a84521f0d3ae097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_126
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4351222f675a44b44a0af20d3b10a4ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_127
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5866fa15c99fc6d46a44ceb8912928cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_128
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2873c20e6f91cff43b32f345f20e287d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_129
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10162a03070d118499243c17ec43a1a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_130
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444df828ada75c2478d7bde3ce5be2a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_131
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637ac2d256dd0ab4db6ae87e2b237c1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_132
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c0ded1d62faa4cb2aa09c41081d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_133
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec7afe4ab8fa5444a790280f9dea2f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_134
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54c113987c35d741abd7b3f69462fd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_135
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6f06b06de800d48900d7cfbb1d80a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_136
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092474c469f027f469126542c3c18b2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_137
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4d8c824dbd79c4db356eba20b397c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_138
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f42aea11ce3464c8a58733941a6fe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_139
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e28add609523f14ca5cb2bec76af84f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_140
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be937f843eb22d4468823c0cfb2347e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_141
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e421968a831a4c881e3034ca9f1e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_142
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd2b81317a5a44991fde02da281767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d80d335d79150469708b71e1439467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_144
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add7917dcd83037428bb24226a418ca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_145
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b16e16923eb6c645bae15b42d10d4e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_146
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ed1492fad142c4eaf8976f30670b45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_147
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20808e86c251c494c80de132671676a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_148
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde2a3b7af875474182e50fdb84638f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_149
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b17e9dce9a69f4aa6a16df122c5fdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_150
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f52dfdc13e847498b9109ff6df7343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_151
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac2b714eb854c4dbae1e7d9e419f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_152
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd3118f603b5e4596703855d5450df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_153
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd54a970d5dc3934bbd631788b4e271e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_154
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe598860bda2d34e9ae2b8b27863a0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_155
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f803b9dd14f0447b04997e3a2a6e62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_156
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b39748255c634489c1924a7bda1444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_157
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8158888325682734d9b0c62a6cd7b42e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_158
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c942c164e21bb419e047f3da163327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_159
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc01a1e5c038643a796e20bbc621c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_160
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a583a78010b174e9457b17d835618c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_161
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e84998b4266be4da6186f9b6a58e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dd77d936e352b4541bf1ead77b95c05e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,55 @@
+{
+  //good stability
+  "srcType": "voxSet",
+  "dest": "output/zelda.vox",
+  "width": 10,
+  "height": 10,
+  "depth": 10,
+  "symmetry": 8,
+  "rotationTreatment": "generated",
+  "tiles": [
+    {"src": "empty.vox", "value": "empty", "tileSymmetry": "X"},
+    {"src": "ground.vox", "value": "ground", "tileSymmetry": "X"},
+    {"src": "wall.vox", "value": "wall", "tileSymmetry": "X"},
+    {"src": "pillars.vox", "value": "pillars", "tileSymmetry": "X"},
+    {"src": "stairs.vox", "value": "stairs", "tileSymmetry": "X"},
+    {"src": "stairs180.vox", "value": "stairs180", "tileSymmetry": "X"},
+    {"src": "corner.vox", "value": "corner", "tileSymmetry": "X"},
+    {"src": "corner180.vox", "value": "corner180", "tileSymmetry": "X"},
+    {"src": "bridge-down.vox", "value": "bridge", "tileSymmetry": "I"},
+    {"src": "bridge-2-down.vox", "value": "bridge-2", "tileSymmetry": "T"},
+    {"src": "bridge-turn-down.vox", "value": "bridge-turn", "tileSymmetry": "L"},
+  ],
+  "adjacencies": [
+    {"below": ["ground"], "above": ["ground", "wall", "empty", "stairs", "stairs180", "corner", "corner180", "bridge", "bridge-turn", "pillars"]},
+    {"left": ["ground"], "right": ["ground", "wall", "empty", "stairs", "stairs180", "corner", "corner180", "bridge", "pillars"]},
+
+    {"above": ["ground"], "below": ["ground", "wall", "empty", "corner", "corner180", "bridge", "pillars"]},
+    {"right": ["ground"], "left": ["ground", "wall", "empty", "corner", "corner180", "bridge", "pillars"]},
+
+    {"left": ["bridge"], "right": ["bridge", "bridge-2", "empty"]},
+
+    {"above": ["empty"], "below": ["stairs", "stairs180"]},
+
+    {"left": ["bridge-turn"], "right": ["bridge", "bridge-2", "pillars"]},
+
+    {"left": ["wall"], "right": ["wall", "corner", "corner180", "empty", "pillars"]}
+  ],
+  "constraints": [
+      {
+          "type": "border",
+          "tile": "ground",
+          "excludeSides": "ymax"
+      },
+      {
+          "type": "fixedTile",
+          "tile": "empty",
+          "point": {"x": 9, "y": 9, "z": 9}
+      },
+      {
+          "type": "fixedTile",
+          "tile": "ground",
+          "point": {"x": 9, "y": 9, "z": 8}
+      },
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  //good stability
+  "srcType": "voxSet",
+  "dest": "output/zelda.vox",
+  "width": 10,
+  "height": 10,
+  "depth": 10,
+  "symmetry": 8,
+  "tiles": [
+    {"src": "empty.vox", "value": "empty", "tileSymmetry": "X"},
+    {"src": "ground.vox", "value": "ground", "tileSymmetry": "X"},
+    {"src": "wall.vox", "value": "wall", "tileSymmetry": "X"},
+    {"src": "stairs.vox", "value": "stairs", "tileSymmetry": "X"},
+    {"src": "corner.vox", "value": "corner", "tileSymmetry": "X"},
+    {"src": "bridge-down.vox", "value": "bridge", "tileSymmetry": "I"},
+    {"src": "bridge-turn-down.vox", "value": "bridge-turn", "tileSymmetry": "L"},
+  ],
+  "adjacencies": [
+    {"below": ["ground"], "above": ["ground", "wall", "empty", "stairs", "corner", "bridge", "bridge-turn"]},
+    {"left": ["ground"], "right": ["ground", "wall", "empty", "stairs", "corner", "bridge"]},
+
+    {"above": ["ground"], "below": ["ground", "wall", "empty", "corner", "bridge"]},
+    {"right": ["ground"], "left": ["ground", "wall", "empty", "corner", "bridge"]},
+
+    {"above": ["empty"], "below": ["stairs"]},
+
+    {"left": ["bridge"], "right": ["bridge"]},
+
+    {"left": ["bridge-turn"], "right": ["bridge", "ground"]},
+
+    {"left": ["wall"], "right": ["wall", "corner"]}
+  ],
+}

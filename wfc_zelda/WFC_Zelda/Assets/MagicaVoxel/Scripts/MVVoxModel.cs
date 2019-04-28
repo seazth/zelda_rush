@@ -3,7 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using System.IO;
-
+using System.Diagnostics;
+using System;
 
 public class MVVoxModel : MonoBehaviour {
     
@@ -73,7 +74,7 @@ public class MVVoxModel : MonoBehaviour {
 
 
 		} else {
-			Debug.LogError ("[MVVoxModel] Invalid file path");
+			print ("[MVVoxModel] Invalid file path");
 		}
 	}
 
@@ -103,10 +104,43 @@ public class MVVoxModel : MonoBehaviour {
 
 	}
 
-	public bool reimportOnStart = true;
+    private int executeExternalProgram()
+    {
+        try
+        {
+            Process myProcess = new Process();
+            myProcess.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+            myProcess.StartInfo.CreateNoWindow = true;
+            myProcess.StartInfo.UseShellExecute = false;
+            myProcess.StartInfo.WorkingDirectory = Environment.CurrentDirectory;
+            myProcess.StartInfo.FileName = @".\\Assets\\tools\\DeBroglie.Console.exe";
+            //myProcess.StartInfo.FileName = "C:\\Windows\\system32\\cmd.exe";
+            //string path = @"..\\..\\tools\\DeBroglie.Console.exe" + @"..\\..\\dungeon_conf\\zelda.json";
+            myProcess.StartInfo.Arguments = @".\\Assets\\dungeon_conf\\zelda.json";
+            myProcess.EnableRaisingEvents = true;
+            myProcess.StartInfo.RedirectStandardOutput = true;
+            myProcess.Start();
+            string output = myProcess.StandardOutput.ReadToEnd();
+            myProcess.WaitForExit();
+            int ExitCode = myProcess.ExitCode;
+            print(output);
+            print("the exit code : "+ExitCode);
+            return ExitCode;
+        }
+        catch (Exception e)
+        {
+            print(e);
+            return 1; //1 means error
+        }
+    }
+
+    public bool reimportOnStart = true;
 	void Start()
 	{
-		if (reimportOnStart) {
+
+        executeExternalProgram();
+
+        if (reimportOnStart) {
 			LoadVOXFile (ed_filePath, ed_importAsIndividualVoxels);
       
 

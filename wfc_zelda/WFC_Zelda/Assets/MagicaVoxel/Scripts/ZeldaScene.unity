@@ -885,8 +885,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 381607942}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 57.5, y: 35.5, z: 5}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 57.5, y: 51.8, z: 5}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 872156399}
   - {fileID: 1259560185}
@@ -912,7 +912,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 4
   health_max: 2
-  speed: 4
+  speed: 12
   bdy: {fileID: 381607945}
   flag_Invulnerable: 0
   flag_canAttack: 1
@@ -1520,7 +1520,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 541409586}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -95.5, y: 0, z: 0}
   m_LocalScale: {x: 187.84637, y: 0.1, z: 298.7261}
   m_Children: []
   m_Father: {fileID: 0}

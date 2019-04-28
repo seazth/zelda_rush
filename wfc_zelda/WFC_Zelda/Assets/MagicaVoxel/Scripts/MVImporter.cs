@@ -644,7 +644,7 @@ public static class MVImporter
 		List<GameObject> result = new List<GameObject> ();
 
 		for (int x = 0; x < chunk.sizeX; ++x) {
-			for (int y = 0; y <55; ++y) {
+			for (int y = 0; y < chunk.sizeY; ++y) {
 				for (int z = 0; z < chunk.sizeZ; ++z) {
 
 					if (chunk.voxels [x, y, z] != 0) {
@@ -657,6 +657,8 @@ public static class MVImporter
 							string.Format ("Voxel ({0}, {1}, {2})", x, y, z),
 							MVImporter.CubeMeshWithColor (sizePerVox, palatte[cidx - 1], cidx),
 							mat);
+            mat.SetInt("_Cull", (int)UnityEngine.Rendering.CullMode.Back);
+
             /*GameObjectUtility.SetStaticEditorFlags(go,
                    StaticEditorFlags.BatchingStatic
                    ^ StaticEditorFlags.LightmapStatic
@@ -665,7 +667,7 @@ public static class MVImporter
                    ^ StaticEditorFlags.OccluderStatic
                    ^ StaticEditorFlags.OffMeshLinkGeneration
                    ^ StaticEditorFlags.ReflectionProbeStatic); */
-            BoxCollider bc = go.AddComponent<BoxCollider>() as BoxCollider;
+           // BoxCollider bc = go.AddComponent<BoxCollider>() as BoxCollider;
 
 #if UNITY_EDITOR
             MVVoxModelVoxel v = go.AddComponent<MVVoxModelVoxel> ();
@@ -734,8 +736,9 @@ public static class MVImporter
 
 			MeshRenderer mr = go.AddComponent<MeshRenderer> ();
 			mr.material = mat;
+      MeshCollider bc = go.AddComponent<MeshCollider>() as MeshCollider;
 
-			go.AddComponent<MVVoxModelMesh> ();
+      go.AddComponent<MVVoxModelMesh> ();
 			result.Add (go);
 			index++;
 		}

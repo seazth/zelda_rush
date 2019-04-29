@@ -14,7 +14,8 @@ public class MVVoxModel : MonoBehaviour {
 
 	// actually requred for instantiation
 	public string ed_filePath = "";
-
+  string filePath2 = @".\\Assets\dungeon_conf\output\zelda.vox";
+ // GameObject textFile = Resources.Load("dungeon_conf/output/zelda");
   public GameObject par;
 	[HideInInspector]
 	public MVMainChunk vox;
@@ -141,7 +142,7 @@ public class MVVoxModel : MonoBehaviour {
         executeExternalProgram();
 
         if (reimportOnStart) {
-			LoadVOXFile (ed_filePath, ed_importAsIndividualVoxels);
+			LoadVOXFile (filePath2, ed_importAsIndividualVoxels);
       
 
     }

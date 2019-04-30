@@ -736,7 +736,11 @@ public static class MVImporter
 
 			MeshRenderer mr = go.AddComponent<MeshRenderer> ();
 			mr.material = mat;
-      MeshCollider bc = go.AddComponent<MeshCollider>() as MeshCollider;
+
+            MeshCollider bc = go.AddComponent<MeshCollider>() as MeshCollider;
+
+            OnePlaneCuttingController planeCutting = go.AddComponent<OnePlaneCuttingController>();
+            planeCutting.plane = GameObject.Find("Quad");
 
       go.AddComponent<MVVoxModelMesh> ();
 			result.Add (go);

@@ -7,6 +7,7 @@ public class detectTrigger : MonoBehaviour
   public GameObject Quad;
   public float floor;
   public bool isFirst;
+  bool isActive = true;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,9 +29,9 @@ public class detectTrigger : MonoBehaviour
     if (other.tag == "Player") {
       Debug.Log("TEst");
       Quad.transform.position = new Vector3(0, floor, 0);
-      if (isFirst) {
+      if (isFirst && isActive == true) {
         GameObject.Find("VILLAGE").SetActive(false);
-
+        isActive = false;
       }
       //Quad.transform.Translate(1, floor, 1);
     }

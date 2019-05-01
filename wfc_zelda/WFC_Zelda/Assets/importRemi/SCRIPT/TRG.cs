@@ -4,10 +4,10 @@ using UnityEngine;
 
 public interface TRG_I
 {
-    void trigger(Actor actor);
+    void trigger(Actor actor, Collider other);
 }
 
 public abstract class TRG : MonoBehaviour, TRG_I
 {
-    public abstract void trigger(Actor actor);
+    public abstract void trigger(Actor actor,Collider other);
 }

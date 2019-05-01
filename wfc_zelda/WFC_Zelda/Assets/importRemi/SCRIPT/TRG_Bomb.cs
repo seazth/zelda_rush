@@ -14,7 +14,7 @@ public class TRG_Bomb : TRG
         else txt_amount.text = "";
 
     }
-    public override void trigger(Actor actor)
+    public override void trigger(Actor actor, Collider other)
     {
         if (actor is Player)
         {

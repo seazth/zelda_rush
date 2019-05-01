@@ -2,29 +2,52 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+using System;
+using UnityEditor;
+
+[System.Flags]
+public enum Team { Neutral, Player, Monster }
 
 public class Actor : MonoBehaviour
 {
+    public Rigidbody bdy;
+    public Team TeamEnum;
     public int health = 4;
     public int health_max = 2;
-    const int health_max_limit = 24;
-
+    const int health_max_limit = 12;
     public float speed = 4;
-    protected Vector3 in_velocity = Vector3.zero;
-    protected float in_rotation = 180; // 180 = UP / 0 = DOWN / 270 = RIGHT / 90 = LEFT
+    public float turnTowardSpeed = 0.1f;
 
-    public virtual void addHealthPoint(int amount)
+    protected virtual void Awake()
     {
+        if (bdy == null) bdy = GetComponent<Rigidbody>();
+    }
+    protected virtual void Start()
+    {
+    }
+    public virtual bool addHealthPoint(int amount)
+    {
+        if (health_max * 2 <= health) return false;
         health += amount;
         if (health > health_max * 2) health = health_max * 2;
         print(name + " : regen " + amount + "hp");
+        return true;
     }
-    public virtual void addHealthMax(int amount)
+    public virtual bool addHealthMax(int amount)
     {
-        health += amount*2;
-        health_max += amount;
-        if (health_max > health_max_limit) health_max = health_max_limit;
-        print(name + " : add " + amount + " extra heart");
+        if (health_max >= health_max_limit)
+        {
+            health += amount * 2;
+            if (health > health_max * 2) health = health_max * 2;
+            print(name + " : no extra heart (+2hp)");
+        }
+        else
+        {
+            health += amount * 2;
+            health_max += amount;
+            print(name + " : add " + amount + " extra heart");
+        }
+        return true;
     }
     public virtual void takeHit(int amount)
     {
@@ -43,14 +66,14 @@ public class Actor : MonoBehaviour
     }
     public virtual void onDeath()
     {
-        print(name + " : Dead ! ");
+        print(name + " : Dead !");
         Instantiate(MNG_Game.instance.fx_deathSmoke, transform.position, Quaternion.identity);
     }
     public virtual void OnTriggerEnter(Collider other)
     {
         if (other.tag == "Trigger")
         {
-            other.GetComponent<TRG>().trigger(this);
+            other.GetComponent<TRG>().trigger(this, other);
         }
     }
 
@@ -64,13 +87,15 @@ public class Actor : MonoBehaviour
 
 public class Player : Actor
 {
-    public Rigidbody bdy;
+
+    public AANIM_Humanoid aanim;
 
     Coroutine hitRecovery;
     public bool flag_Invulnerable = false;
 
     Coroutine attackRecovery;
     public bool flag_canAttack = true;
+    public bool flag_isAttacking = false;
 
     Coroutine moveRecovery;
     public bool flag_canMove = true;
@@ -79,11 +104,22 @@ public class Player : Actor
 
     public int rubyCount = 0;
     public int bombCount = 0;
-
-    private void Start()
+    protected override void Awake()
     {
-        InvokeRepeating("GetLastValidPosition", 0.5f, 0.5f);
+        base.Awake();
+        if (aanim == null) aanim = GetComponent<AANIM_Humanoid>();
+
+    }
+
+    protected override void Start()
+    {
+        base.Start();
+        TeamEnum = Team.Player;
+        InvokeRepeating("GetLastValidPosition", 0.5f, 0.2f);
         RefreshHUD();
+        Camera.main.GetComponent<SmoothFollow>().target = this.transform;
+
+        //Time.timeScale = 0.1f;
     }
 
     void RefreshHUD() { RefreshHealth(); RefreshBomb(); RefreshRubys(); }
@@ -92,17 +128,20 @@ public class Player : Actor
     //GESTION ITEM COLLECTABLES
     void RefreshBomb() { MNG_Game.instance.hud.Refresh_Bomb(bombCount); }
     void RefreshRubys() { MNG_Game.instance.hud.Refresh_Rubys(rubyCount); }
-    public void takeRuby(int amount) { rubyCount += amount;if (rubyCount > 999) rubyCount = 999; RefreshRubys(); }
-    public void takeBomb(int amount) { bombCount += amount;if (bombCount > 999) bombCount = 999; RefreshBomb(); }
-    public override void addHealthPoint(int amount)
+    public void takeRuby(int amount) { rubyCount += amount; if (rubyCount > 999) rubyCount = 999; RefreshRubys(); }
+    public void takeBomb(int amount) { bombCount += amount; if (bombCount > 999) bombCount = 999; RefreshBomb(); }
+    /*MODIFIE███████████████████████████████████████████████████████████████████████████*/
+    public override bool addHealthPoint(int amount)
     {
-        base.addHealthPoint(amount);
+        bool pop = base.addHealthPoint(amount);
         RefreshHealth();
+        return pop;
     }
-    public override void addHealthMax(int amount)
+    public override bool addHealthMax(int amount)
     {
-        base.addHealthMax(amount);
+        bool pop = base.addHealthMax(amount);
         RefreshHealth();
+        return pop;
     }
 
     //public List<int> item_list = new List<int>();
@@ -114,16 +153,32 @@ public class Player : Actor
 
     void Update()
     {
+        if (MNG_Game.instance.inPause) return;
+
+        //PAUSING 
+        if (Input.GetKey(KeyCode.Escape)) MNG_Game.instance.setPause(true);
+
         //MOVEMENT
         if (flag_canMove)
         {
+            Vector3 in_direction = Vector3.zero;
             int in_horizontal = Input.GetKey(KeyCode.Q) ? -1 : Input.GetKey(KeyCode.D) ? 1 : 0;
             int in_vertical = Input.GetKey(KeyCode.S) ? -1 : Input.GetKey(KeyCode.Z) ? 1 : 0;
-            in_velocity = (new Vector3(in_horizontal, 0, 0) + new Vector3(0, 0, in_vertical)) * speed * Time.deltaTime;
-            if (in_horizontal != 0) in_rotation = in_horizontal > 0 ? 270 : in_horizontal < 0 ? 90 : 0;
-            else if (in_vertical != 0) in_rotation = in_vertical > 0 ? 180 : in_vertical < 0 ? 0 : 0;
-            transform.position += in_velocity;
-            transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.Euler(0, in_rotation, 0), 0.3f);
+            in_direction = (new Vector3(in_horizontal, 0, 0) + new Vector3(0, 0, in_vertical)).normalized;
+
+            if (aanim.state != AANIM_Humanoid.MyEnum.attack)
+                if (in_horizontal == 0 && in_vertical == 0) aanim.state = AANIM_Humanoid.MyEnum.idle;
+                else aanim.state = AANIM_Humanoid.MyEnum.running;
+
+            //MOVE
+            transform.position += in_direction * speed * Time.deltaTime;
+
+            //ROTATION
+            Quaternion dirRotation = Quaternion.FromToRotation(transform.forward, in_direction);
+            transform.rotation = Quaternion.Lerp(
+                Quaternion.Euler(new Vector3(0f, transform.eulerAngles.y + 0.1f, 0f)) // FIX = (in_horizontal!=0 && in_vertical!=0?1f:0) = Rotation Y
+                , Quaternion.Euler(new Vector3(0f, transform.eulerAngles.y, 0f)) * dirRotation
+                , turnTowardSpeed);
         }
 
         // ATTACK
@@ -140,15 +195,17 @@ public class Player : Actor
     /// </summary>
     public void GetLastValidPosition()
     {
-        RaycastHit hit;
-        if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.down), out hit, 2.0f))
+        /*if (Physics.Raycast(transform.position + new Vector3(0, 0.5f, 0), Vector3.down, out _, 4.0f, 0, QueryTriggerInteraction.Ignore))
         {
+            print("AAAAAAA");
             lastValidPosition = transform.position;
-        }
+        } */
     }
-
-    private void FixedUpdate()
+    public void RespawnToLastValidPosition()
     {
+        print("[PLAYER] RESPAWN");
+        takeHit(1);
+        transform.position = lastValidPosition;
     }
 
     public override void takeHit(int amount)
@@ -169,9 +226,17 @@ public class Player : Actor
     {
         //DO ANIMATION
         flag_canAttack = false;
+        flag_isAttacking = true;
+        flag_canMove = false;
         SwordAttackBox.SetActive(true);
-        StartCoroutine(ActionTimer(() => { SwordAttackBox.SetActive(false); }, 0.1f));
-        attackRecovery = StartCoroutine(ActionTimer(() => { flag_canAttack = true; }, 0.2f));
+        aanim.state = AANIM_Humanoid.MyEnum.attack;
+        attackRecovery = StartCoroutine(ActionTimer(() => {
+            flag_canMove = true;
+            flag_canAttack = true;
+            aanim.state = AANIM_Humanoid.MyEnum.idle;
+            SwordAttackBox.SetActive(false);
+            flag_isAttacking = false;
+        }, 0.6f));
     }
 
     public override void onDeath()

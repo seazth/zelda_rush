@@ -2,6 +2,7 @@
 
 public class SmoothFollow : MonoBehaviour
 {
+
 	#region Consts
 	private const float SMOOTH_TIME = 0.3f;
 	#endregion
@@ -21,7 +22,8 @@ public class SmoothFollow : MonoBehaviour
 	private Vector3 velocity;
 	#endregion
 
-	bool hudActive = true;
+
+
 	private void Awake()
 	{
 		thisTransform = transform;
@@ -41,6 +43,8 @@ public class SmoothFollow : MonoBehaviour
 	private void LateUpdate()
 		// ReSharper restore UnusedMember.Local
 	{
+        if (thisTransform == null || target == null) return;
+
 		var newPos = Vector3.zero;
 		
 		if (useSmoothing)

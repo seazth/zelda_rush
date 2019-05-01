@@ -5,12 +5,12 @@ using UnityEngine;
 public class TRG_Heart : TRG
 {
     public int amount = 1;
-    public override void trigger(Actor actor)
+    public override void trigger(Actor actor, Collider other)
     {
         if (actor is Player)
         {
-            ((Player)actor).addHealthPoint(amount);
-            Destroy(gameObject);
+    /*MODIFIE███████████████████████████████████████████████████████████████████████████*/
+            if (((Player)actor).addHealthPoint(amount)) Destroy(gameObject);
         }
     }
 }

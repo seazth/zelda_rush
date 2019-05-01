@@ -5,7 +5,7 @@ using UnityEngine;
 public class TRG_Ruby : TRG
 {
     public int amount = 1;
-    public override void trigger(Actor actor)
+    public override void trigger(Actor actor, Collider other)
     {
         if (actor is Player)
         {

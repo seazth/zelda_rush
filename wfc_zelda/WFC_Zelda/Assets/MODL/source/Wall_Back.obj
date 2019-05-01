@@ -1,0 +1,21 @@
+mtllib ./Palette.mtl
+g Palette
+v -3 0 -3
+v -3 6 3
+v -3 6 -3
+v -3 0 3
+
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+
+vt 0.055274 0.958577
+vt 0.055274 0.937249
+vt 0.055274 0.958577
+vt 0.055274 0.937249
+
+usemtl Palette
+usemap Palette
+f 3/3/3 1/1/1 2/2/2
+f 2/2/2 1/1/1 4/4/4

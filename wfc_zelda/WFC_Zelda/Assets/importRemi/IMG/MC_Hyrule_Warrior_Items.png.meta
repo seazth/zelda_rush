@@ -164,6 +164,21 @@ TextureImporter:
     21300318: MC_Hyrule_Warrior_Items_159
     21300320: MC_Hyrule_Warrior_Items_160
     21300322: MC_Hyrule_Warrior_Items_161
+    21300324: MC_Hyrule_Warrior_Items_162
+    21300326: MC_Hyrule_Warrior_Items_163
+    21300328: MC_Hyrule_Warrior_Items_164
+    21300330: MC_Hyrule_Warrior_Items_165
+    21300332: MC_Hyrule_Warrior_Items_166
+    21300334: MC_Hyrule_Warrior_Items_167
+    21300336: MC_Hyrule_Warrior_Items_168
+    21300338: MC_Hyrule_Warrior_Items_169
+    21300340: MC_Hyrule_Warrior_Items_170
+    21300342: MC_Hyrule_Warrior_Items_171
+    21300344: MC_Hyrule_Warrior_Items_172
+    21300346: MC_Hyrule_Warrior_Items_173
+    21300348: MC_Hyrule_Warrior_Items_174
+    21300350: MC_Hyrule_Warrior_Items_175
+    21300352: MC_Hyrule_Warrior_Items_176
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -261,17 +276,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97af068548e84564ba8144876adff513
+      spriteID: a6d778675659fe644b55f1046ffa5fc7
       vertices: []
       indices: 
       edges: []
@@ -281,17 +296,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dfebdf9c2f14074fbf541635b8f3583
+      spriteID: 3fd84a66520ef864ba72e6fb3851c8bc
       vertices: []
       indices: 
       edges: []
@@ -301,17 +316,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 34
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7aac0036ebb743f4094510c4529b881d
+      spriteID: f3ab4f0b6e4ef61429fb82e19345e8ad
       vertices: []
       indices: 
       edges: []
@@ -321,17 +336,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 51
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 499eaf8a74a322043b69ab74f3cb1470
+      spriteID: 9b648bddb90f0314cba1c787ff4c814a
       vertices: []
       indices: 
       edges: []
@@ -341,17 +356,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 68
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e27b528f1c164e45bb5bda1b30662a7
+      spriteID: d62dc7bc1f425324490841ecf194174c
       vertices: []
       indices: 
       edges: []
@@ -361,17 +376,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 85
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9aeb54b465a737e4aa1b9cb831635ddc
+      spriteID: 79b073a5bb7825348a4920b887334740
       vertices: []
       indices: 
       edges: []
@@ -381,17 +396,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 102
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31c8ece6a52fb194ba6bcce7091fe353
+      spriteID: a4369fb59ae88e848bc7a1465ac5aa4b
       vertices: []
       indices: 
       edges: []
@@ -401,17 +416,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 119
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3b8d766731cb0e4e907ca1103119353
+      spriteID: ad290fe79385a494e830d0397abd5cbf
       vertices: []
       indices: 
       edges: []
@@ -421,17 +436,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 136
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1b7dbbf1fac45344937b904cdac394f
+      spriteID: a6279e5d00cc9db40929e54c6c39de3a
       vertices: []
       indices: 
       edges: []
@@ -441,17 +456,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 153
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e62ac8d7b4842974997207fd643bfe5b
+      spriteID: 6f93f92d9dded814c87a4163712ae664
       vertices: []
       indices: 
       edges: []
@@ -461,17 +476,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 170
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 924bc39d20f167d4e936d62244743348
+      spriteID: a4a7668ab7bbb5944b77e7af6fc1deac
       vertices: []
       indices: 
       edges: []
@@ -481,17 +496,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 187
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccbce080759ed014490318e7af9a0825
+      spriteID: 615227d5ea169114ba69ddd37c0b275a
       vertices: []
       indices: 
       edges: []
@@ -501,17 +516,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 204
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3456da6e94c13f48b582ce8b0fb5620
+      spriteID: 91801ba51f2fe9e4faacf74e18118201
       vertices: []
       indices: 
       edges: []
@@ -521,17 +536,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 221
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 267ef3f3649e063439fdfc16f3a6ba66
+      spriteID: ecd13a9d2b24e2343ada1b77c685f22f
       vertices: []
       indices: 
       edges: []
@@ -541,17 +556,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 238
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d3b314d78122f545a90d7dd7eb416ac
+      spriteID: 433e12129a3ba1842aa58766ae5332fb
       vertices: []
       indices: 
       edges: []
@@ -561,17 +576,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 255
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f46dec1e16ff2d74aa1410f7686db3e7
+      spriteID: 37de710c3864fd14489a891a66930aeb
       vertices: []
       indices: 
       edges: []
@@ -581,17 +596,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 272
-        y: 137
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f16f24821b854a94c96ebee24e374f4f
+      spriteID: a8bd5a2a7ae0ebc44b904eb1b6e449fb
       vertices: []
       indices: 
       edges: []
@@ -600,18 +615,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_17
       rect:
         serializedVersion: 2
-        x: 0
-        y: 120
+        x: 289
+        y: 153
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1929f5bc9c323db4ea8613a5c051d345
+      spriteID: a3aa11ebd6dd3534392aa603a5caa61a
       vertices: []
       indices: 
       edges: []
@@ -620,18 +635,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_18
       rect:
         serializedVersion: 2
-        x: 17
-        y: 120
+        x: 0
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 133da1ddf4e611246afe76378641adaf
+      spriteID: 3a6693a19f6142644937db303d98cf9d
       vertices: []
       indices: 
       edges: []
@@ -640,18 +655,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_19
       rect:
         serializedVersion: 2
-        x: 34
-        y: 120
+        x: 17
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a36e2767b542f0745845aaafa55f45f5
+      spriteID: ec4c80e39f3e8194a8d7d07c0c8b2b89
       vertices: []
       indices: 
       edges: []
@@ -660,18 +675,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_20
       rect:
         serializedVersion: 2
-        x: 51
-        y: 120
+        x: 34
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0fc37713ca68fc42a5ab58d820a8366
+      spriteID: 70092050f672bd343b412f1cca1e3bca
       vertices: []
       indices: 
       edges: []
@@ -680,18 +695,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_21
       rect:
         serializedVersion: 2
-        x: 68
-        y: 120
+        x: 51
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 004838e0f9eb1c640bfd321c5e82161f
+      spriteID: d8024b743b6073940ad1236564efc2b2
       vertices: []
       indices: 
       edges: []
@@ -700,18 +715,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_22
       rect:
         serializedVersion: 2
-        x: 85
-        y: 120
+        x: 68
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40184dfd07981f149b5bcdf3de3744bf
+      spriteID: a54deac39beefa346bcea8fd7f9c259a
       vertices: []
       indices: 
       edges: []
@@ -720,18 +735,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_23
       rect:
         serializedVersion: 2
-        x: 102
-        y: 120
+        x: 85
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c03ae7fea47690846b951ddaf3be8ad6
+      spriteID: 9413565f642572347b7f98e82de65a31
       vertices: []
       indices: 
       edges: []
@@ -740,18 +755,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_24
       rect:
         serializedVersion: 2
-        x: 119
-        y: 120
+        x: 102
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e08bb7afe217c04093918c28511526b
+      spriteID: 5e178a8c3b0b4c84bb715e53a8feae3c
       vertices: []
       indices: 
       edges: []
@@ -760,18 +775,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_25
       rect:
         serializedVersion: 2
-        x: 136
-        y: 120
+        x: 119
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af7b54584ab6eb44c97ffa5b3db15a46
+      spriteID: e43bb925b9bef9747bf978e8765269ac
       vertices: []
       indices: 
       edges: []
@@ -780,18 +795,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_26
       rect:
         serializedVersion: 2
-        x: 153
-        y: 120
+        x: 136
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32bf60d0906cc1a41bc34cd3d0968046
+      spriteID: 3cf1a7fbe6ddb4c428f6df493c0f1321
       vertices: []
       indices: 
       edges: []
@@ -800,18 +815,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_27
       rect:
         serializedVersion: 2
-        x: 170
-        y: 120
+        x: 153
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bdf7e6f57bc82942a45b203c5815292
+      spriteID: ca4d9916423153945ae6c21c9ddea6ad
       vertices: []
       indices: 
       edges: []
@@ -820,18 +835,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_28
       rect:
         serializedVersion: 2
-        x: 187
-        y: 120
+        x: 170
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba245d1093a4bca43a9de501d02344cc
+      spriteID: d4130775ecc097445a60fc03955bf3ba
       vertices: []
       indices: 
       edges: []
@@ -840,18 +855,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_29
       rect:
         serializedVersion: 2
-        x: 204
-        y: 120
+        x: 187
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d02d3b2d1e757f043afd37432a3181ee
+      spriteID: d588ccaaf32c54d4ca7df478683bba17
       vertices: []
       indices: 
       edges: []
@@ -860,18 +875,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_30
       rect:
         serializedVersion: 2
-        x: 221
-        y: 120
+        x: 204
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a6cd2df0dd7d214cb66452378a44e5d
+      spriteID: 1f340c40914e05b4d9d49ee67e947d4b
       vertices: []
       indices: 
       edges: []
@@ -880,18 +895,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_31
       rect:
         serializedVersion: 2
-        x: 238
-        y: 120
+        x: 221
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5796a41976ac4364d8443913008d1f4c
+      spriteID: dd16be68ef4fbf246887b84441b34c05
       vertices: []
       indices: 
       edges: []
@@ -900,18 +915,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_32
       rect:
         serializedVersion: 2
-        x: 255
-        y: 120
+        x: 238
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f34ed1011d747824796f76fe10ac870b
+      spriteID: 255de2dec743cbe488d5ea497e85ee06
       vertices: []
       indices: 
       edges: []
@@ -920,18 +935,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_33
       rect:
         serializedVersion: 2
-        x: 272
-        y: 120
+        x: 255
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36a8efddec8b1b244a8f6eca7f55ad06
+      spriteID: a5bec7bd74696f44c96fe07af0d10609
       vertices: []
       indices: 
       edges: []
@@ -940,18 +955,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_34
       rect:
         serializedVersion: 2
-        x: 0
-        y: 103
+        x: 272
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fa7a9b226527fc48a99296c801765e0
+      spriteID: 56f24298a48e8a64baa6ef90491c4c4e
       vertices: []
       indices: 
       edges: []
@@ -960,18 +975,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_35
       rect:
         serializedVersion: 2
-        x: 17
-        y: 103
+        x: 289
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0956a0ff2263fa443a26e4ed2054fd75
+      spriteID: 507405e74a7046c49a809520df813ad8
       vertices: []
       indices: 
       edges: []
@@ -980,18 +995,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_36
       rect:
         serializedVersion: 2
-        x: 34
-        y: 103
+        x: 306
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80d17b1bbd2d3af4a8be76d5bd9f0eaf
+      spriteID: 26a46ad62a22e1d409a2ef2014b2b293
       vertices: []
       indices: 
       edges: []
@@ -1000,18 +1015,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_37
       rect:
         serializedVersion: 2
-        x: 51
-        y: 103
+        x: 323
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6413d62c226d60046858541966ba81e7
+      spriteID: 5dec94e27b90a4147bec5b4fefd563e7
       vertices: []
       indices: 
       edges: []
@@ -1020,18 +1035,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_38
       rect:
         serializedVersion: 2
-        x: 68
-        y: 103
+        x: 340
+        y: 136
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73bd8461f4bcd94459f4dcd00e98c0df
+      spriteID: 2a2a7effff8b4204b87bfa1250d34d83
       vertices: []
       indices: 
       edges: []
@@ -1040,18 +1055,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_39
       rect:
         serializedVersion: 2
-        x: 85
-        y: 103
+        x: 0
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15c5e88b22e5faa478875a51452d5ec6
+      spriteID: af52187710e25fd4b899d715023369b7
       vertices: []
       indices: 
       edges: []
@@ -1060,18 +1075,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_40
       rect:
         serializedVersion: 2
-        x: 102
-        y: 103
+        x: 17
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb2c888455b771e40af754eb0487b592
+      spriteID: 4640c5511467fa54f88bc1f4c9d7aa1c
       vertices: []
       indices: 
       edges: []
@@ -1080,18 +1095,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_41
       rect:
         serializedVersion: 2
-        x: 119
-        y: 103
+        x: 34
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2f342f775fd8644d9d7f49bc7331bad
+      spriteID: a4242579378883d4882c92fdfef43cd3
       vertices: []
       indices: 
       edges: []
@@ -1100,18 +1115,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_42
       rect:
         serializedVersion: 2
-        x: 170
-        y: 103
+        x: 51
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25ed5aeed428d514d859d4942f790702
+      spriteID: 0e66a3c8c51360842a44c167ad724e82
       vertices: []
       indices: 
       edges: []
@@ -1120,18 +1135,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_43
       rect:
         serializedVersion: 2
-        x: 187
-        y: 103
+        x: 68
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42cf0ec24ad78aa4d9754db3bffc96c9
+      spriteID: 5cb746b10d0689b41b92625aca920c82
       vertices: []
       indices: 
       edges: []
@@ -1140,18 +1155,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_44
       rect:
         serializedVersion: 2
-        x: 204
-        y: 103
+        x: 85
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f33be98dda994d46b0cfedd2b6aefae
+      spriteID: 3d5d7548c6be84b40b347e0ad8f12087
       vertices: []
       indices: 
       edges: []
@@ -1160,18 +1175,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_45
       rect:
         serializedVersion: 2
-        x: 221
-        y: 103
+        x: 102
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba5ca3ecea6ee7f41b528aa725ab40ac
+      spriteID: a4afe587769818642aa2b92249345d19
       vertices: []
       indices: 
       edges: []
@@ -1180,18 +1195,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_46
       rect:
         serializedVersion: 2
-        x: 238
-        y: 103
+        x: 119
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cb612a9e38aa9848887e2b5c38ed040
+      spriteID: 894feecf7ba613f40ab6e7f128e0c70f
       vertices: []
       indices: 
       edges: []
@@ -1200,18 +1215,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_47
       rect:
         serializedVersion: 2
-        x: 255
-        y: 103
+        x: 170
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba43e50b9711d634ca0caa3c8e7b6b35
+      spriteID: 996dbca0c52581c4e81589f09f450ca3
       vertices: []
       indices: 
       edges: []
@@ -1220,18 +1235,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_48
       rect:
         serializedVersion: 2
-        x: 272
-        y: 103
+        x: 187
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e8094296a22d5047962d71b72e286bd
+      spriteID: c89f28e409ab9444abc847ea9bade067
       vertices: []
       indices: 
       edges: []
@@ -1240,18 +1255,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_49
       rect:
         serializedVersion: 2
-        x: 0
-        y: 86
+        x: 204
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b665be418d4ab044791972c4771c1c49
+      spriteID: 58004c9acd3d05f459f1a82b788fec7a
       vertices: []
       indices: 
       edges: []
@@ -1260,18 +1275,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_50
       rect:
         serializedVersion: 2
-        x: 17
-        y: 86
+        x: 221
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33e793bda0d77454eac8ae811c3af708
+      spriteID: fdc736d2c37679c48bbaa036730bf89d
       vertices: []
       indices: 
       edges: []
@@ -1280,18 +1295,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_51
       rect:
         serializedVersion: 2
-        x: 34
-        y: 86
+        x: 238
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fdea725b6841d74687ee448d3b515fc
+      spriteID: db03eed41befac54e9760654dffb0233
       vertices: []
       indices: 
       edges: []
@@ -1300,18 +1315,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_52
       rect:
         serializedVersion: 2
-        x: 51
-        y: 86
+        x: 255
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6a51725304daf94696e4072aebe42ba
+      spriteID: f449c89d365484544ae211dbeacd5ad0
       vertices: []
       indices: 
       edges: []
@@ -1320,18 +1335,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_53
       rect:
         serializedVersion: 2
-        x: 68
-        y: 86
+        x: 272
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39b1031325a44914cb1c23a13539de84
+      spriteID: 887c597cc9bb4f64380b3c844e1372f6
       vertices: []
       indices: 
       edges: []
@@ -1340,18 +1355,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_54
       rect:
         serializedVersion: 2
-        x: 85
-        y: 86
+        x: 289
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86db8b2204b7ef2428be9e27dbc8d949
+      spriteID: 8e8b3cc018b79494cb12306104bfd6aa
       vertices: []
       indices: 
       edges: []
@@ -1360,18 +1375,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_55
       rect:
         serializedVersion: 2
-        x: 102
-        y: 86
+        x: 306
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 585284792c8f0304ca7c318256d9ebd4
+      spriteID: 12b955e1a10ab7f48a182e319a3acbe2
       vertices: []
       indices: 
       edges: []
@@ -1380,18 +1395,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_56
       rect:
         serializedVersion: 2
-        x: 119
-        y: 86
+        x: 323
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55c8255168214f44d88a8ae0875bf7e0
+      spriteID: 7dffbd992be01874eb1c9313e9d6a144
       vertices: []
       indices: 
       edges: []
@@ -1400,18 +1415,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_57
       rect:
         serializedVersion: 2
-        x: 136
-        y: 86
+        x: 340
+        y: 119
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 329799defb6db9d4f9439a6764be271f
+      spriteID: af7c79dba5eb2514b92525499d3edc87
       vertices: []
       indices: 
       edges: []
@@ -1420,18 +1435,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_58
       rect:
         serializedVersion: 2
-        x: 153
-        y: 86
+        x: 0
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: baa8cffd8a0bb704aa63757a5f24dcd2
+      spriteID: 1fe55bd84736daf4dbf583ae79ad021b
       vertices: []
       indices: 
       edges: []
@@ -1440,18 +1455,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_59
       rect:
         serializedVersion: 2
-        x: 170
-        y: 86
+        x: 17
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75102f79413b04749975b906ae7843a4
+      spriteID: 245412b8c1614e04eac01bf3b0139ea0
       vertices: []
       indices: 
       edges: []
@@ -1460,18 +1475,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_60
       rect:
         serializedVersion: 2
-        x: 187
-        y: 86
+        x: 34
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30a789a0aec01e54e8cf2495c61dc6e6
+      spriteID: 7336681b151e6114b95fa35120ecfd8a
       vertices: []
       indices: 
       edges: []
@@ -1480,18 +1495,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_61
       rect:
         serializedVersion: 2
-        x: 204
-        y: 86
+        x: 51
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f88b541c8ca671e4389900f245f70086
+      spriteID: 5b8c0ceb1e934b7498b7579596a9860c
       vertices: []
       indices: 
       edges: []
@@ -1500,18 +1515,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_62
       rect:
         serializedVersion: 2
-        x: 221
-        y: 86
+        x: 68
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fceb01a65fa3764490967e772b3412c
+      spriteID: 3731a44ce61830343a753e8f6aa29fd2
       vertices: []
       indices: 
       edges: []
@@ -1520,18 +1535,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_63
       rect:
         serializedVersion: 2
-        x: 238
-        y: 86
+        x: 85
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1eac46bf7eb5f5f4385bfa078ae24d90
+      spriteID: aa395e9be0fac114fadd68e9f0ebd509
       vertices: []
       indices: 
       edges: []
@@ -1540,18 +1555,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_64
       rect:
         serializedVersion: 2
-        x: 255
-        y: 86
+        x: 102
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 758a7be4e52296a4e86c0de1b7c70289
+      spriteID: 8be4ad3c882ca994596976814d963545
       vertices: []
       indices: 
       edges: []
@@ -1560,18 +1575,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_65
       rect:
         serializedVersion: 2
-        x: 272
-        y: 86
+        x: 119
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c01c76d4ddc60b47ab8a4016fc986fd
+      spriteID: 7e7387f049ddc0444b900a3730a70fb6
       vertices: []
       indices: 
       edges: []
@@ -1580,18 +1595,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_66
       rect:
         serializedVersion: 2
-        x: 0
-        y: 69
+        x: 136
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a400544cf35ae1409b06e031467a672
+      spriteID: 57845440aa00aa34cb2dc32fb184f67d
       vertices: []
       indices: 
       edges: []
@@ -1600,18 +1615,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_67
       rect:
         serializedVersion: 2
-        x: 17
-        y: 69
+        x: 153
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0837445b2e1fd9f42881c0228fa23bd8
+      spriteID: 0acc4d5a45ee1b6489b304a2beaa4cfe
       vertices: []
       indices: 
       edges: []
@@ -1620,18 +1635,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_68
       rect:
         serializedVersion: 2
-        x: 34
-        y: 69
+        x: 170
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5111af00aeed97b409f47e88386560f1
+      spriteID: d057cae8f6dc7f046b6990d169681ec2
       vertices: []
       indices: 
       edges: []
@@ -1640,18 +1655,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_69
       rect:
         serializedVersion: 2
-        x: 51
-        y: 69
+        x: 187
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f743955b00e79ca4a90cb093c60eec7b
+      spriteID: 454d8b798c06fc042968727a9f5092ab
       vertices: []
       indices: 
       edges: []
@@ -1660,18 +1675,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_70
       rect:
         serializedVersion: 2
-        x: 68
-        y: 69
+        x: 204
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a0615fb07b403b41943c010e5f83aad
+      spriteID: cab7e96076d432b459576ba2d0ecd7e1
       vertices: []
       indices: 
       edges: []
@@ -1680,18 +1695,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_71
       rect:
         serializedVersion: 2
-        x: 85
-        y: 69
+        x: 221
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e9aef786d1140540b2ec01b9715794b
+      spriteID: b55f42c3fe4ff204b816d17f70bcc32e
       vertices: []
       indices: 
       edges: []
@@ -1700,18 +1715,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_72
       rect:
         serializedVersion: 2
-        x: 102
-        y: 69
+        x: 238
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26d6aaeee7c1fcc46a159b92233ec556
+      spriteID: 348567a8f99feb94997ce88377fb7e61
       vertices: []
       indices: 
       edges: []
@@ -1720,18 +1735,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_73
       rect:
         serializedVersion: 2
-        x: 119
-        y: 69
+        x: 255
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 482fd2e1525cbb84281145bd8e1317fc
+      spriteID: 5e29cc54184ce094997932c5e5798603
       vertices: []
       indices: 
       edges: []
@@ -1740,18 +1755,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_74
       rect:
         serializedVersion: 2
-        x: 136
-        y: 69
+        x: 272
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cef485c33514714ba1723b69647b5a3
+      spriteID: bd398835690901640947ad6c92e8c94b
       vertices: []
       indices: 
       edges: []
@@ -1760,18 +1775,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_75
       rect:
         serializedVersion: 2
-        x: 153
-        y: 69
+        x: 306
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ec052fc5ba0a2544a3b8e25b1447224
+      spriteID: 683d8de00a6485c4a9c258e292755578
       vertices: []
       indices: 
       edges: []
@@ -1780,18 +1795,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_76
       rect:
         serializedVersion: 2
-        x: 170
-        y: 69
+        x: 323
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca3dfe13b0d88c943add665365ff6c22
+      spriteID: cae6783ed6e0144459e4af242dafbacf
       vertices: []
       indices: 
       edges: []
@@ -1800,18 +1815,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_77
       rect:
         serializedVersion: 2
-        x: 187
-        y: 69
+        x: 340
+        y: 102
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d983dfd1c7b13244b8234fe3f220cd4b
+      spriteID: e1f61990aaf577b44929789d345c11b4
       vertices: []
       indices: 
       edges: []
@@ -1820,18 +1835,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_78
       rect:
         serializedVersion: 2
-        x: 204
-        y: 69
+        x: 0
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c3ae073b8cca794dbcec8e655d95d48
+      spriteID: f177f18b425a1544088f0a24e0c410e4
       vertices: []
       indices: 
       edges: []
@@ -1840,18 +1855,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_79
       rect:
         serializedVersion: 2
-        x: 221
-        y: 69
+        x: 17
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73edb50a1c59f35499a1603627505cad
+      spriteID: 305d45450b6d91d42ac94c57be75fe66
       vertices: []
       indices: 
       edges: []
@@ -1860,18 +1875,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_80
       rect:
         serializedVersion: 2
-        x: 238
-        y: 69
+        x: 34
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6018bd44591b0b48a9b39fc657c071d
+      spriteID: 38eb1ae32dd5031439a75b94bd52797d
       vertices: []
       indices: 
       edges: []
@@ -1880,18 +1895,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_81
       rect:
         serializedVersion: 2
-        x: 255
-        y: 69
+        x: 51
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca3c496bb081b8b4d9be4b78c4676078
+      spriteID: 843da7eb937a632479c2b5a6958aedc2
       vertices: []
       indices: 
       edges: []
@@ -1900,18 +1915,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_82
       rect:
         serializedVersion: 2
-        x: 272
-        y: 69
+        x: 68
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15835b9303dab8740a656f0d8f7c9244
+      spriteID: 31cd1124ad780654ab451a27754a1441
       vertices: []
       indices: 
       edges: []
@@ -1920,18 +1935,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_83
       rect:
         serializedVersion: 2
-        x: 0
-        y: 52
+        x: 85
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b1314e630db07f4baa7fcaae513abdf
+      spriteID: e2954d8035197ee448f015cd11e64893
       vertices: []
       indices: 
       edges: []
@@ -1940,18 +1955,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_84
       rect:
         serializedVersion: 2
-        x: 17
-        y: 52
+        x: 102
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab3e3611ac9779d4e93905de3c59fa42
+      spriteID: 201317904534bf342bc81bbfb9c18176
       vertices: []
       indices: 
       edges: []
@@ -1960,18 +1975,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_85
       rect:
         serializedVersion: 2
-        x: 34
-        y: 52
+        x: 119
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9518d64b241759e4db5459d2d2844585
+      spriteID: 0c3ddee558b9d094884073c80ef0d48c
       vertices: []
       indices: 
       edges: []
@@ -1980,18 +1995,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_86
       rect:
         serializedVersion: 2
-        x: 51
-        y: 52
+        x: 136
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 495afa65098f47d43ba2118cca24165f
+      spriteID: 0e29e1fea1c87004a8dd54500a2e8ee1
       vertices: []
       indices: 
       edges: []
@@ -2000,18 +2015,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_87
       rect:
         serializedVersion: 2
-        x: 68
-        y: 52
+        x: 153
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 418bcc2c16706794faafd8c1dea05f41
+      spriteID: e07617d8d66f64643a71f0cc18eb64d0
       vertices: []
       indices: 
       edges: []
@@ -2020,18 +2035,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_88
       rect:
         serializedVersion: 2
-        x: 85
-        y: 52
+        x: 170
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ae4410c6c0d3144694b8daf1e16a6d9
+      spriteID: f9acd22da142d334eabead94e141a066
       vertices: []
       indices: 
       edges: []
@@ -2040,18 +2055,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_89
       rect:
         serializedVersion: 2
-        x: 102
-        y: 52
+        x: 187
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6de740c38879fc342aea40352fddb31b
+      spriteID: 7434f227d3d480a4db9cea8435f50c09
       vertices: []
       indices: 
       edges: []
@@ -2060,18 +2075,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_90
       rect:
         serializedVersion: 2
-        x: 119
-        y: 52
+        x: 204
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2c5646e38399ef4681d3d3a4b024b2d
+      spriteID: 6b3d319abc68a5c4b95cf2e1eca4795f
       vertices: []
       indices: 
       edges: []
@@ -2080,18 +2095,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_91
       rect:
         serializedVersion: 2
-        x: 136
-        y: 52
+        x: 221
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 493420e1ec257b3428900e0260d265f6
+      spriteID: b74c7b54006a74244a419847ffbc33d6
       vertices: []
       indices: 
       edges: []
@@ -2100,18 +2115,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_92
       rect:
         serializedVersion: 2
-        x: 153
-        y: 52
+        x: 238
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 261c5f36afbde9443a56a2f361bc3dec
+      spriteID: 15a42350239b7d64598e868bffde85b0
       vertices: []
       indices: 
       edges: []
@@ -2120,18 +2135,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_93
       rect:
         serializedVersion: 2
-        x: 170
-        y: 52
+        x: 255
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c40afd71a343be4b895c55e8d68b7c5
+      spriteID: b60dada8d9cbc3d429e3720a0b619638
       vertices: []
       indices: 
       edges: []
@@ -2140,18 +2155,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_94
       rect:
         serializedVersion: 2
-        x: 187
-        y: 52
+        x: 272
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b270dcfed594d6447aaecd27405b8a93
+      spriteID: 1fd7df5eb29177f4eaeed27a76ee7335
       vertices: []
       indices: 
       edges: []
@@ -2160,18 +2175,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_95
       rect:
         serializedVersion: 2
-        x: 204
-        y: 52
+        x: 289
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 158ce56aee99f614398ece5b2287e873
+      spriteID: 86c3c6cf48a55ec469b27090cba540f2
       vertices: []
       indices: 
       edges: []
@@ -2180,18 +2195,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_96
       rect:
         serializedVersion: 2
-        x: 221
-        y: 52
+        x: 306
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40f0a2c2ac1d5784c8abb048c71cd91d
+      spriteID: 3ff3b324a3c67c94a9c73d3c9b99561d
       vertices: []
       indices: 
       edges: []
@@ -2200,18 +2215,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_97
       rect:
         serializedVersion: 2
-        x: 238
-        y: 52
+        x: 323
+        y: 85
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cad43055e192164c9570dfbeda25148
+      spriteID: f9ece6755ba059a4f925cc4b1221b74c
       vertices: []
       indices: 
       edges: []
@@ -2220,18 +2235,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_98
       rect:
         serializedVersion: 2
-        x: 255
-        y: 52
+        x: 0
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bdac584d0752b149a1707db52be3f98
+      spriteID: c9324584c2a95fa4b9e3508e1570b83f
       vertices: []
       indices: 
       edges: []
@@ -2240,18 +2255,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_99
       rect:
         serializedVersion: 2
-        x: 272
-        y: 52
+        x: 17
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e717e6721703c743a53d3815ef47085
+      spriteID: c2305da06627cce4898dcdba84d3475b
       vertices: []
       indices: 
       edges: []
@@ -2260,18 +2275,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_100
       rect:
         serializedVersion: 2
-        x: 289
-        y: 52
+        x: 34
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e890076bca6acec438f0620e0f261131
+      spriteID: f926eb964dfd61445a88bfb4088f2c9f
       vertices: []
       indices: 
       edges: []
@@ -2280,18 +2295,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_101
       rect:
         serializedVersion: 2
-        x: 306
-        y: 52
+        x: 51
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0eaf0e86c1765934babd9a63b268b716
+      spriteID: bf9376c42d26d0843b2d079c06915d0f
       vertices: []
       indices: 
       edges: []
@@ -2300,18 +2315,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_102
       rect:
         serializedVersion: 2
-        x: 323
-        y: 52
+        x: 68
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1419826f3ef773b49b4bd9b843a70b9a
+      spriteID: 41eb7ea5dd70f1c419dab3433a932a33
       vertices: []
       indices: 
       edges: []
@@ -2320,18 +2335,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_103
       rect:
         serializedVersion: 2
-        x: 0
-        y: 35
+        x: 85
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c8da6c1d0b89d548bf4e99c11eeacf9
+      spriteID: d08f72151cdf34045b10bf0713697adc
       vertices: []
       indices: 
       edges: []
@@ -2340,18 +2355,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_104
       rect:
         serializedVersion: 2
-        x: 17
-        y: 35
+        x: 102
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da65c6a04e9d0fb47bdb8fd11155d69b
+      spriteID: 349240ab40c8ac54990928d9706d0475
       vertices: []
       indices: 
       edges: []
@@ -2360,18 +2375,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_105
       rect:
         serializedVersion: 2
-        x: 34
-        y: 35
+        x: 119
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af798c2176301d44f8a5b9e8191d50f0
+      spriteID: 1df3444add9d79745b91b30492b3d39f
       vertices: []
       indices: 
       edges: []
@@ -2380,18 +2395,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_106
       rect:
         serializedVersion: 2
-        x: 51
-        y: 35
+        x: 136
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ad04325715b4d641afcd9d9f3e51f3e
+      spriteID: 32f0ebe36d2c6cc4991ae6adee6ae729
       vertices: []
       indices: 
       edges: []
@@ -2400,18 +2415,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_107
       rect:
         serializedVersion: 2
-        x: 68
-        y: 35
+        x: 153
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23a6a2d1993e451468764806eedbdeed
+      spriteID: 5dea69f832c6b374d8a8956d91c8ff6e
       vertices: []
       indices: 
       edges: []
@@ -2420,18 +2435,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_108
       rect:
         serializedVersion: 2
-        x: 85
-        y: 35
+        x: 170
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd2d0b026fa0a7548b3745934f6aab07
+      spriteID: 3f49f398f510aad48b842507853380ba
       vertices: []
       indices: 
       edges: []
@@ -2440,18 +2455,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_109
       rect:
         serializedVersion: 2
-        x: 102
-        y: 35
+        x: 187
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 020f6289fc7101143b15c0f77f0c7e83
+      spriteID: 04ce8a9aa50d49c43899fc1d96a201e4
       vertices: []
       indices: 
       edges: []
@@ -2460,18 +2475,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_110
       rect:
         serializedVersion: 2
-        x: 119
-        y: 35
+        x: 204
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8c66d39f1b10914288aa8019e4a17c9
+      spriteID: 970f4f474db21d2448da8a06ce4f5670
       vertices: []
       indices: 
       edges: []
@@ -2480,18 +2495,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_111
       rect:
         serializedVersion: 2
-        x: 136
-        y: 35
+        x: 221
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d013f1920cd0934c99706f97cfbc16d
+      spriteID: 8a7cb92ed909c1d468d11de2fdabd90f
       vertices: []
       indices: 
       edges: []
@@ -2500,18 +2515,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_112
       rect:
         serializedVersion: 2
-        x: 153
-        y: 35
+        x: 238
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0aeac251338e6f346bcbe19cb66a1f0a
+      spriteID: 5f1bb99f11f302c4a8805d5f9ded0780
       vertices: []
       indices: 
       edges: []
@@ -2520,18 +2535,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_113
       rect:
         serializedVersion: 2
-        x: 170
-        y: 35
+        x: 255
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bb57f723857e9640bf0b6bbbae6015e
+      spriteID: 693110868e86d26468c840d25009dd60
       vertices: []
       indices: 
       edges: []
@@ -2540,18 +2555,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_114
       rect:
         serializedVersion: 2
-        x: 187
-        y: 35
+        x: 272
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e30c751a34c07140adee9e72e3fd0ec
+      spriteID: 0db5033dcc4a5564f93f429b582bbda4
       vertices: []
       indices: 
       edges: []
@@ -2560,18 +2575,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_115
       rect:
         serializedVersion: 2
-        x: 204
-        y: 35
+        x: 289
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03b50423bfede7b4fb2071c4a3cd4174
+      spriteID: 4c9769123ab9e574bbdd37d380460439
       vertices: []
       indices: 
       edges: []
@@ -2580,18 +2595,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_116
       rect:
         serializedVersion: 2
-        x: 221
-        y: 35
+        x: 306
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c1b5db7a22fdf348afec8d8c04357ac
+      spriteID: 4ddd0b429c726ea4bbb9633f3cdf355c
       vertices: []
       indices: 
       edges: []
@@ -2600,18 +2615,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_117
       rect:
         serializedVersion: 2
-        x: 238
-        y: 35
+        x: 323
+        y: 68
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb9a9d67640719d4ab6642af3a03a2ca
+      spriteID: fb419caf501119a47833848f3ac021cf
       vertices: []
       indices: 
       edges: []
@@ -2620,18 +2635,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_118
       rect:
         serializedVersion: 2
-        x: 255
-        y: 35
+        x: 0
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc05aaa62aff9964bae6870126cbe84e
+      spriteID: f803a9265e571b8439db5deaa886c0d8
       vertices: []
       indices: 
       edges: []
@@ -2640,18 +2655,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_119
       rect:
         serializedVersion: 2
-        x: 272
-        y: 35
+        x: 17
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a65d06b592718e64bbced0d45c9ad081
+      spriteID: a4912745a966e56429ceb451386ac7f4
       vertices: []
       indices: 
       edges: []
@@ -2660,18 +2675,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_120
       rect:
         serializedVersion: 2
-        x: 289
-        y: 35
+        x: 34
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9899eca6e314b6148907d0d797bdaa4a
+      spriteID: 0bae4190dcec169429c66b52bf8b6bb0
       vertices: []
       indices: 
       edges: []
@@ -2680,18 +2695,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_121
       rect:
         serializedVersion: 2
-        x: 306
-        y: 35
+        x: 51
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59408d136c101c94580477075e1e5b9f
+      spriteID: c9af7ce20d4e08143bce05a5c5d75620
       vertices: []
       indices: 
       edges: []
@@ -2700,18 +2715,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_122
       rect:
         serializedVersion: 2
-        x: 323
-        y: 35
+        x: 68
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfb73de30eba0b24aba2a0686b67bb2d
+      spriteID: 6da53b44054fdc947aba4e004b1fd240
       vertices: []
       indices: 
       edges: []
@@ -2720,18 +2735,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_123
       rect:
         serializedVersion: 2
-        x: 0
-        y: 18
+        x: 85
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d5aefa9e6d60664ba5db4c8d8bb4aea
+      spriteID: 57e83ca0f0d9d1c4480eefb543b8156d
       vertices: []
       indices: 
       edges: []
@@ -2740,18 +2755,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_124
       rect:
         serializedVersion: 2
-        x: 17
-        y: 18
+        x: 102
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 587fe23eb58b61d46afc2aaf2f3391ba
+      spriteID: 1aa4b0a0187eb524b9ceff6a7d692586
       vertices: []
       indices: 
       edges: []
@@ -2760,18 +2775,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_125
       rect:
         serializedVersion: 2
-        x: 34
-        y: 18
+        x: 119
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cf75892d5a70e346a84521f0d3ae097
+      spriteID: 2a38ec1f3f1bb8540970d1ba9c85b76a
       vertices: []
       indices: 
       edges: []
@@ -2780,18 +2795,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_126
       rect:
         serializedVersion: 2
-        x: 51
-        y: 18
+        x: 136
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4351222f675a44b44a0af20d3b10a4ac
+      spriteID: 93ca3fe53467c3243b17da554a209e40
       vertices: []
       indices: 
       edges: []
@@ -2800,18 +2815,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_127
       rect:
         serializedVersion: 2
-        x: 68
-        y: 18
+        x: 153
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5866fa15c99fc6d46a44ceb8912928cf
+      spriteID: e49b23c90e80ddd49bd76fb71937a963
       vertices: []
       indices: 
       edges: []
@@ -2820,18 +2835,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_128
       rect:
         serializedVersion: 2
-        x: 85
-        y: 18
+        x: 170
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2873c20e6f91cff43b32f345f20e287d
+      spriteID: 5c65d9196c808904a9a69761dc9eb714
       vertices: []
       indices: 
       edges: []
@@ -2840,18 +2855,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_129
       rect:
         serializedVersion: 2
-        x: 102
-        y: 18
+        x: 187
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10162a03070d118499243c17ec43a1a6
+      spriteID: 62c8fd0697594ab4c9fad8ebdf4142c3
       vertices: []
       indices: 
       edges: []
@@ -2860,18 +2875,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_130
       rect:
         serializedVersion: 2
-        x: 119
-        y: 18
+        x: 204
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 444df828ada75c2478d7bde3ce5be2a7
+      spriteID: a646361de0515ba41bfa7942f66add96
       vertices: []
       indices: 
       edges: []
@@ -2880,18 +2895,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_131
       rect:
         serializedVersion: 2
-        x: 136
-        y: 18
+        x: 221
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 637ac2d256dd0ab4db6ae87e2b237c1b
+      spriteID: 8fd4a546071ffe643b68653d6bb6ffac
       vertices: []
       indices: 
       edges: []
@@ -2900,18 +2915,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_132
       rect:
         serializedVersion: 2
-        x: 153
-        y: 18
+        x: 238
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 962c0ded1d62faa4cb2aa09c41081d6c
+      spriteID: f1cf8dc707a97ef4994cf16c1637194a
       vertices: []
       indices: 
       edges: []
@@ -2920,18 +2935,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_133
       rect:
         serializedVersion: 2
-        x: 170
-        y: 18
+        x: 255
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ec7afe4ab8fa5444a790280f9dea2f2
+      spriteID: e3faca487980b714db1930d435ae329c
       vertices: []
       indices: 
       edges: []
@@ -2940,18 +2955,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_134
       rect:
         serializedVersion: 2
-        x: 187
-        y: 18
+        x: 272
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a54c113987c35d741abd7b3f69462fd2
+      spriteID: de175b96c5a9f9b49aa492e35ae5b124
       vertices: []
       indices: 
       edges: []
@@ -2960,18 +2975,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_135
       rect:
         serializedVersion: 2
-        x: 204
-        y: 18
+        x: 289
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b6f06b06de800d48900d7cfbb1d80a5
+      spriteID: 6769021fdc80713418390a337fd3e7ca
       vertices: []
       indices: 
       edges: []
@@ -2980,18 +2995,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_136
       rect:
         serializedVersion: 2
-        x: 221
-        y: 18
+        x: 306
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 092474c469f027f469126542c3c18b2d
+      spriteID: 4f1957a269fc54140a637cd4da3d1485
       vertices: []
       indices: 
       edges: []
@@ -3000,18 +3015,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_137
       rect:
         serializedVersion: 2
-        x: 238
-        y: 18
+        x: 323
+        y: 51
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a4d8c824dbd79c4db356eba20b397c3
+      spriteID: 45d6ac06be5fe1b418db983e1795c0da
       vertices: []
       indices: 
       edges: []
@@ -3020,18 +3035,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_138
       rect:
         serializedVersion: 2
-        x: 255
-        y: 18
+        x: 0
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00f42aea11ce3464c8a58733941a6fe0
+      spriteID: c3c0db9108d416f4ea3808e9845f30e6
       vertices: []
       indices: 
       edges: []
@@ -3040,18 +3055,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_139
       rect:
         serializedVersion: 2
-        x: 272
-        y: 18
+        x: 17
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e28add609523f14ca5cb2bec76af84f
+      spriteID: 604bd652ebfce3c439467a2701eb358e
       vertices: []
       indices: 
       edges: []
@@ -3060,18 +3075,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_140
       rect:
         serializedVersion: 2
-        x: 289
-        y: 18
+        x: 34
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be937f843eb22d4468823c0cfb2347e9
+      spriteID: ed54a1393bfca7648853a1a0592987ce
       vertices: []
       indices: 
       edges: []
@@ -3080,18 +3095,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_141
       rect:
         serializedVersion: 2
-        x: 306
-        y: 18
+        x: 51
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a72e421968a831a4c881e3034ca9f1e9
+      spriteID: 48c94ad76e77c1247b7e8d70e7286be9
       vertices: []
       indices: 
       edges: []
@@ -3100,18 +3115,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_142
       rect:
         serializedVersion: 2
-        x: 323
-        y: 18
+        x: 68
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07cd2b81317a5a44991fde02da281767
+      spriteID: 1e9fa0719cd1b554e9886acf42f0bc62
       vertices: []
       indices: 
       edges: []
@@ -3120,18 +3135,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_143
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1
+        x: 85
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58d80d335d79150469708b71e1439467
+      spriteID: 994fcfb055c4d2a4982bc2cb47e22368
       vertices: []
       indices: 
       edges: []
@@ -3140,18 +3155,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_144
       rect:
         serializedVersion: 2
-        x: 17
-        y: 1
+        x: 102
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: add7917dcd83037428bb24226a418ca2
+      spriteID: 942acc6498c33544f930c199703a5cf5
       vertices: []
       indices: 
       edges: []
@@ -3160,18 +3175,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_145
       rect:
         serializedVersion: 2
-        x: 34
-        y: 1
+        x: 119
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b16e16923eb6c645bae15b42d10d4e0
+      spriteID: 75d838fc6ed8d7f42ade1cd24c3dbf50
       vertices: []
       indices: 
       edges: []
@@ -3180,18 +3195,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_146
       rect:
         serializedVersion: 2
-        x: 51
-        y: 1
+        x: 136
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90ed1492fad142c4eaf8976f30670b45
+      spriteID: bed07fa66d2ad79459d909b610a73cd4
       vertices: []
       indices: 
       edges: []
@@ -3200,18 +3215,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_147
       rect:
         serializedVersion: 2
-        x: 68
-        y: 1
+        x: 153
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20808e86c251c494c80de132671676a8
+      spriteID: 858d65f13adbc2e4f908257c6e5eebf3
       vertices: []
       indices: 
       edges: []
@@ -3220,18 +3235,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_148
       rect:
         serializedVersion: 2
-        x: 85
-        y: 1
+        x: 170
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dde2a3b7af875474182e50fdb84638f9
+      spriteID: 753de3ca27e5afb46b15c233ab0ba32a
       vertices: []
       indices: 
       edges: []
@@ -3240,18 +3255,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_149
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1
+        x: 187
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1b17e9dce9a69f4aa6a16df122c5fdd
+      spriteID: bbbff11a11b626947af56399a1696792
       vertices: []
       indices: 
       edges: []
@@ -3260,18 +3275,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_150
       rect:
         serializedVersion: 2
-        x: 119
-        y: 1
+        x: 204
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0f52dfdc13e847498b9109ff6df7343
+      spriteID: 5345387e0a21b2048afac1644fb52495
       vertices: []
       indices: 
       edges: []
@@ -3280,18 +3295,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_151
       rect:
         serializedVersion: 2
-        x: 136
-        y: 1
+        x: 221
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38ac2b714eb854c4dbae1e7d9e419f4b
+      spriteID: a8313504f71ffd241925fecef2b88541
       vertices: []
       indices: 
       edges: []
@@ -3300,18 +3315,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_152
       rect:
         serializedVersion: 2
-        x: 153
-        y: 1
+        x: 238
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6dd3118f603b5e4596703855d5450df
+      spriteID: cec6feed80b9a894bb5d5351c6231637
       vertices: []
       indices: 
       edges: []
@@ -3320,18 +3335,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_153
       rect:
         serializedVersion: 2
-        x: 170
-        y: 1
+        x: 255
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd54a970d5dc3934bbd631788b4e271e
+      spriteID: 1f7f7dca419ed7d439585f0e60339c5e
       vertices: []
       indices: 
       edges: []
@@ -3340,18 +3355,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_154
       rect:
         serializedVersion: 2
-        x: 187
-        y: 1
+        x: 272
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fe598860bda2d34e9ae2b8b27863a0b
+      spriteID: 06dc1cd076731f1409847ef5e6dff732
       vertices: []
       indices: 
       edges: []
@@ -3360,18 +3375,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_155
       rect:
         serializedVersion: 2
-        x: 204
-        y: 1
+        x: 289
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2f803b9dd14f0447b04997e3a2a6e62
+      spriteID: 05b6b58ce67c3c544b9b1aabed2667b3
       vertices: []
       indices: 
       edges: []
@@ -3380,18 +3395,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_156
       rect:
         serializedVersion: 2
-        x: 221
-        y: 1
+        x: 306
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2b39748255c634489c1924a7bda1444
+      spriteID: 87892968fc3ff9f45b9eb4a87eaf82e5
       vertices: []
       indices: 
       edges: []
@@ -3400,18 +3415,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_157
       rect:
         serializedVersion: 2
-        x: 238
-        y: 1
+        x: 323
+        y: 34
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8158888325682734d9b0c62a6cd7b42e
+      spriteID: 237c493e8efacc64289495094beccb6f
       vertices: []
       indices: 
       edges: []
@@ -3420,18 +3435,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_158
       rect:
         serializedVersion: 2
-        x: 255
-        y: 1
+        x: 0
+        y: 17
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6c942c164e21bb419e047f3da163327
+      spriteID: 20261e849f200064c98bcfed055c0d23
       vertices: []
       indices: 
       edges: []
@@ -3440,18 +3455,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_159
       rect:
         serializedVersion: 2
-        x: 272
-        y: 1
+        x: 17
+        y: 17
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21fc01a1e5c038643a796e20bbc621c0
+      spriteID: 71176ead23547b649a83016a8c9faabc
       vertices: []
       indices: 
       edges: []
@@ -3460,18 +3475,18 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_160
       rect:
         serializedVersion: 2
-        x: 289
-        y: 1
+        x: 34
+        y: 17
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4a583a78010b174e9457b17d835618c
+      spriteID: 5126e6f181a85f04d9e8ef2be490eebc
       vertices: []
       indices: 
       edges: []
@@ -3480,18 +3495,318 @@ TextureImporter:
       name: MC_Hyrule_Warrior_Items_161
       rect:
         serializedVersion: 2
-        x: 306
-        y: 1
+        x: 51
+        y: 17
         width: 17
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0e84998b4266be4da6186f9b6a58e83
+      spriteID: b766794b99ce0934390f6d9acdce5393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_162
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db70455eeb303e4587f02f8e5726a72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_163
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c8c3c8f4311c349b70bb209f0000d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_164
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e35e307a4f0aec46bccda4f362d1e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_165
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb6d8989f4660943af939455b4ba740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_166
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e0b3e9b6e9c4547b9dc829ed2ebe42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_167
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6a6a605fcfa5a4dadb7080a99dd241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_168
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcba41ccf95481a45a1301657023a707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_169
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a75e7b0c909a4fa1c6ef9f4d05449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_170
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d809f772b3b04164db3b80a4c2229a74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_171
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9ac3dbd3725a849a068c4a978dadcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_172
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c2bfc7a9c62044a3d129d41df4a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_173
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e216ae5df6d40a943bd39e251119901b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_174
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc955a237b609e4ca288b64d0c359a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_175
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa83b937ff80fc42b3aff0ca8ac4284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Hyrule_Warrior_Items_176
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152dd94f62aed848aa69ab20ca7a278
       vertices: []
       indices: 
       edges: []

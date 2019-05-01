@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: eef414cc24b549a4bb9543ef85d5d75a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Roccia_01_Mat
+    2100002: Legno02_Mat
+    2100004: Casa_01_Mat
+    2100006: Legno01_Mat
+    2100008: Mura_03_TileMat
+    2100010: Legno04_Mat
+    2100012: Ferro03_Mat
+    2100014: Glass_01_Mat
+    2100016: Water_Mat
+    2100018: Terreno_TileMat_3
+    2100020: Terreno_TileMat_4
+    2100022: Terreno_TileMat_5
+    2100024: Terreno_TileMat_6
+    2100026: Terreno_TileMat_7
+    2100028: Terreno_TileMat_8
+    2100030: Terreno_TileMat_9
+    2100032: Terreno_TileMat_1
+    2100034: Terreno_TileMat_2
+    2100036: Bordo_Zolla_01_Mat
+    2100038: Erba_01_TileMat
+    2100040: Mura_01_TileMat
+    2100042: Passerella_Legno_TopMura_02_Mat
+    2100044: RocciaMura_05_Mat
+    2100046: RocciaMura_01_Mat
+    2100048: Passerella_Legno_TopMura_TileMura
+    2100050: RocciaMura_02_Mat
+    2100052: RocciaMura_04_Mat
+    2100054: Ferro02_Mat
+    2100056: Legno03_Mat
+    2100058: RocciaMura_03_Mat
+    2100060: Zone_Ombra_Mat
+    2100062: Tetto_01_Mat
+    2100064: Tegola_02_Mat
+    2100066: Tegola_01_Mat
+    2100068: Gold_01_Mat
+    2100070: Albero01_Mat
+    2100072: Albero02_Mat1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: polySurface365
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

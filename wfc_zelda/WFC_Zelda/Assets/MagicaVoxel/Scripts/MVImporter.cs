@@ -748,7 +748,7 @@ public static class MVImporter
 			result.Add (go);
 			index++;
 		}
-
+        Debug.Log("XAAAA");
 		return result.ToArray ();
 	}
 

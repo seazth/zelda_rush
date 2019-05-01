@@ -104,7 +104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2e8759350c68e84c91e77b61d4d6081, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PNJ: {fileID: 3721775037100929939}
+  PNJ: {fileID: 5973194419733029933}
   layer:
     serializedVersion: 2
     m_Bits: 1
@@ -1330,7 +1330,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   amount: 1
   pushFactor: 6
-  pushY: 1
+  push_Y: 0.1
   Team_Damageable: -1
   isCounterable: 0
 --- !u!1 &3721775035301715948
@@ -1439,7 +1439,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   amount: 1
   pushFactor: 6
-  pushY: 1
+  push_Y: 0.1
   Team_Damageable: -1
   isCounterable: 0
 --- !u!1 &3721775037100929950
@@ -1451,8 +1451,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3721775037100929938}
-  - component: {fileID: 3721775037100929939}
-  - component: {fileID: 3721775037100929937}
+  - component: {fileID: 5973194419733029933}
   - component: {fileID: 3721775037100929941}
   - component: {fileID: 3721775037100929936}
   - component: {fileID: 789406431730996894}
@@ -1481,7 +1480,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3721775037100929939
+--- !u!114 &5973194419733029933
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1490,15 +1489,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 3721775037100929950}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d3ba867feaec1a14cafb89ecff6f2d42, type: 3}
+  m_Script: {fileID: 11500000, guid: 6a9994c5d2715d14cae53ea7ff41ec5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   bdy: {fileID: 3721775037100929936}
   TeamEnum: 2
   health: 4
   health_max: 2
-  speed: 5
-  turnTowardSpeed: 0.05
+  speed: 4
+  turnTowardSpeed: 0.1
   flag_botIsActive: 1
   flag_canMove: 1
   recalculatePathPerSecond: 1
@@ -1509,27 +1508,9 @@ MonoBehaviour:
   turnToward: 1
   state: 1
   head: {fileID: 789406431627134121}
-  aanim: {fileID: 0}
-  statePause: 0
-  speedHeadRotation: 0.05
---- !u!114 &3721775037100929937
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3721775037100929950}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  outlineMode: 3
-  outlineColor: {r: 1, g: 0, b: 0.13348532, a: 1}
-  outlineWidth: 6
-  precomputeOutline: 0
-  bakeKeys: []
-  bakeValues: []
+  aanim: {fileID: 789406431730996894}
+  statePause: 1
+  speedHeadRotation: 0.1
 --- !u!195 &3721775037100929941
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1537,14 +1518,14 @@ NavMeshAgent:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3721775037100929950}
-  m_Enabled: 1
+  m_Enabled: 0
   m_AgentTypeID: 0
   m_Radius: 0.8
   m_Speed: 6
   m_Acceleration: 20
   avoidancePriority: 50
   m_AngularSpeed: 300
-  m_StoppingDistance: 0.8
+  m_StoppingDistance: 2
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 0
   m_AutoRepath: 1
@@ -1580,7 +1561,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96f6526a5ff5f7241b513acf924ad8ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  actor: {fileID: 3721775037100929939}
+  actor: {fileID: 5973194419733029933}
   anim: {fileID: 789406432926396381}
   state: 0
 --- !u!1 &3721775037254025405
@@ -1671,7 +1652,7 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.5
+  m_Radius: 1
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}

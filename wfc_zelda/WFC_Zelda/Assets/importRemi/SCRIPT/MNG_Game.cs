@@ -14,12 +14,17 @@ public class MNG_Game : MonoBehaviour
         pnl_mainmenu.SetActive(true);
 
         print("MNG_Game : LOADED");
-        print("MNG_Game : NAVMESH - INIT");
-
-        NavMeshBuilder.BuildNavMesh();
-        print("MNG_Game : NAVMESH - DONE");
+        
 
         Cursor.SetCursor(tex_cursor, Vector2.zero, CursorMode.Auto);
+    }
+
+
+    public void InitNavMesh()
+    {
+        print("MNG_Game : NAVMESH - INIT");
+        NavMeshBuilder.BuildNavMesh();
+        print("MNG_Game : NAVMESH - DONE");
     }
     private void Update()
     {

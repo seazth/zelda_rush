@@ -21,7 +21,6 @@ public class AANIM_Humanoid : AANIM
     public MyEnum state;
     public void Update()
     {
-        print(anim.GetParameter(0).name);
         switch (state)
         {
             case MyEnum.idle:

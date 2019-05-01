@@ -15,7 +15,7 @@ public class TRG_Damager : TRG
     public override void trigger(Actor actor, Collider other)
     {
         //print(other.attachedRigidbody.name);
-        if (Team_Damageable.Equals(actor.TeamEnum))
+        if (true)//Team_Damageable.Equals(actor.TeamEnum)
         {
             //GameObject go = Instantiate(MNG_Game.instance.fx_hitBounce, transform.position, Quaternion.identity);
             //

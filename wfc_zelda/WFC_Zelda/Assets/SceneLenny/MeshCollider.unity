@@ -9667,10 +9667,34 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
+<<<<<<< HEAD
   serializedVersion: 2
   m_Size: {x: 5.644605, y: 0.7826091, z: 0.126172}
   m_Center: {x: 0.00000047683716, y: 0.41646355, z: 0.013409998}
 --- !u!1001 &1788252769
+=======
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300000, guid: 6a35280d6b5efb540a2f0cbb87ab1657, type: 3}
+--- !u!114 &1318791037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1318791035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c677c933585d0ee4dbfe7483ac9f8c84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  plane: {fileID: 0}
+  normal: {x: 0, y: 0, z: 0}
+  position: {x: 0, y: 0, z: 0}
+  rend: {fileID: 0}
+--- !u!1001 &1343148331
+>>>>>>> 999efbb5f917f0a74b49d00d33654611593b3350
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2

@@ -742,6 +742,8 @@ public static class MVImporter
             OnePlaneCuttingController planeCutting = go.AddComponent<OnePlaneCuttingController>();
             planeCutting.plane = GameObject.Find("Quad");
 
+            go.GetComponent<Renderer>().receiveShadows = false;
+
       go.AddComponent<MVVoxModelMesh> ();
 			result.Add (go);
 			index++;

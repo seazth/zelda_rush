@@ -6,7 +6,6 @@
   "height": 10,
   "depth": 10,
   "symmetry": 8,
-  "rotationTreatment": "generated",
   "tiles": [
     {"src": "empty.vox", "value": "empty", "tileSymmetry": "X"},
     {"src": "ground.vox", "value": "ground", "tileSymmetry": "X"},

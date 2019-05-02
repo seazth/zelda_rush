@@ -212,7 +212,7 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 1
+  m_Radius: 0.5
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
@@ -338,7 +338,7 @@ Transform:
   m_GameObject: {fileID: 882841540767792872}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 15.1}
-  m_LocalScale: {x: 5, y: 6.99, z: 24.68}
+  m_LocalScale: {x: 5, y: 3.05, z: 24.68}
   m_Children: []
   m_Father: {fileID: 882841541177830684}
   m_RootOrder: 0
@@ -1327,9 +1327,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2272142761701330915}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 9.935434, y: 0.011548698, z: -2.2930603}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 882841542012695207}
   - {fileID: 882841540367839536}
@@ -1386,7 +1386,7 @@ MonoBehaviour:
   TeamEnum: 1
   health: 4
   health_max: 2
-  speed: 12
+  speed: 20
   turnTowardSpeed: 0.3
   aanim: {fileID: 0}
   flag_Invulnerable: 0

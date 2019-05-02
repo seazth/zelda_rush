@@ -5,7 +5,10 @@ using UnityEngine;
 public class LookAt : MonoBehaviour
 {
     public Transform LookAtTransform;
-
+    public void Start()
+    {
+        LookAtTransform = Camera.main.transform;
+    }
     public void Update()
     {
         Vector3 direction = (transform.position - LookAtTransform.position).normalized;

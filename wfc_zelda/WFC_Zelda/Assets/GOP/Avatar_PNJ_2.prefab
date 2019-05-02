@@ -1469,9 +1469,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3721775037100929950}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.55, y: 0.05, z: -11.22}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 789406432916832271}
   - {fileID: 3721775037254025404}
@@ -1496,7 +1496,7 @@ MonoBehaviour:
   TeamEnum: 2
   health: 4
   health_max: 2
-  speed: 4
+  speed: 20
   turnTowardSpeed: 0.1
   flag_botIsActive: 1
   flag_canMove: 1
@@ -1510,6 +1510,8 @@ MonoBehaviour:
   head: {fileID: 789406431627134121}
   aanim: {fileID: 789406431730996894}
   statePause: 1
+  sprintSpeed: 30
+  normalSpeed: 20
   speedHeadRotation: 0.1
 --- !u!195 &3721775037100929941
 NavMeshAgent:
@@ -1652,7 +1654,7 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 1
+  m_Radius: 0.5
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}

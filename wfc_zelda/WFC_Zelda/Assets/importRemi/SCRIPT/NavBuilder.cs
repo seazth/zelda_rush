@@ -56,6 +56,7 @@ public class NavBuilder : MonoBehaviour    {
  
         AddNavMeshData();
         Debug.Log("Update finished " + Time.realtimeSinceStartup.ToString());
+        MNG_Game.instance.colliderlevel.SetActive(true); // MODIF BARBARE - RL
     }
  
     public void Build() {

@@ -9,6 +9,8 @@ public class PNJ_Soldier : PNJ
     public GameObject head;
     public AANIM_Humanoid aanim;
     public float statePause = 1;
+    public float sprintSpeed = 15;
+    public float normalSpeed = 8;
     protected override void Awake()
     {
         base.Awake();
@@ -33,6 +35,7 @@ public class PNJ_Soldier : PNJ
             }
             if (state == 1)
             {
+                speed = normalSpeed;
                 if (UnityEngine.Random.Range(0, 2) == 0)//
                 {
                     print("SeekWithHead");
@@ -41,8 +44,12 @@ public class PNJ_Soldier : PNJ
                 else
                 {
                     print("goToRandomPosition");
-                    coroutineState = StartCoroutine(goToRandomDirection(UnityEngine.Random.Range(0, 4), UnityEngine.Random.Range(4, 10)));
+                    coroutineState = StartCoroutine(goToRandomDirection(UnityEngine.Random.Range(0, 4), UnityEngine.Random.Range(4, 15)));
                 }
+            }
+            else if(state == 2)
+            {
+                speed = sprintSpeed;
             }
 
         }
@@ -124,6 +131,7 @@ public class PNJ_Soldier : PNJ
     }
     public IEnumerator runToPosition(Vector3 position)
     {
+        
         Quaternion dest = Quaternion.Euler(0, 0, 1);
         Vector3 newPosition = position;
         SetNewNaviguation(newPosition);

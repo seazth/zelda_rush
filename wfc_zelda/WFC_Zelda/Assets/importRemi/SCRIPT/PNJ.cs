@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class PNJ : Actor
+public abstract class  PNJ : Actor
 {
     NavMeshAgent agent;
     Coroutine moveRecovery;
@@ -75,7 +75,7 @@ public class PNJ : Actor
     }
     public void SetNewNaviguation(Vector3 position)
     {
-        print(name + " : New destination (" + position + ")");
+        //print(name + " : New destination (" + position + ")");
         destination = position;
         calculatePath();
     }
@@ -119,8 +119,20 @@ public class PNJ : Actor
                     currentNode++;
             }
             Quaternion dirRotation = Quaternion.FromToRotation(transform.forward, direction);
-            transform.rotation = Quaternion.Lerp(transform.rotation, transform.rotation*dirRotation, turnTowardSpeed);
+            transform.rotation = Quaternion.Lerp(
+                Quaternion.Euler(new Vector3(0f, transform.eulerAngles.y + 0.1f, 0f)) // FIX = (in_horizontal!=0 && in_vertical!=0?1f:0) = Rotation Y
+                , Quaternion.Euler(new Vector3(0f, transform.eulerAngles.y, 0f)) * dirRotation
+                , turnTowardSpeed);
 
+            /*
+         
+            //ROTATION
+            Quaternion dirRotation = Quaternion.FromToRotation(transform.forward, in_direction);
+            transform.rotation = Quaternion.Lerp(
+                Quaternion.Euler(new Vector3(0f, transform.eulerAngles.y + 0.1f, 0f)) // FIX = (in_horizontal!=0 && in_vertical!=0?1f:0) = Rotation Y
+                , Quaternion.Euler(new Vector3(0f, transform.eulerAngles.y, 0f)) * dirRotation
+                , turnTowardSpeed);    
+         */
         }
     }
     public float getDistanceRemain()

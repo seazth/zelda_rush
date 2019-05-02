@@ -9,21 +9,40 @@ public class MNG_Game : MonoBehaviour
 {
     public static MNG_Game instance { get; private set; }
     public NavBuilder navbuilder;
+    public GameObject colliderlevel;
     private void Awake()
     {
         inPause = true;
         instance = this;
         pnl_mainmenu.SetActive(true);
-
         print("MNG_Game : LOADED");
-
-
         Cursor.SetCursor(tex_cursor, Vector2.zero, CursorMode.Auto);
     }
 
+    public Transform startAleaSpawn;
     public void InitNavMesh()
     {
-        Invoke("BuildNav", 1f);
+        int rx, ry, rz;
+        GameObject go, gop;
+        for (int i = 0; i < 200; i++)
+        {
+            rx = Random.Range(1, 20)*5;
+            rz = Random.Range(1, 20)*5;
+            ry = -1 * Random.Range(0, 9) * 10;
+
+            switch (Random.Range(0, 7))
+            {
+                case 0: gop = gop_spwn_PNJ; break;
+                case 1: gop = gop_spwn_rubeeGold; break;
+                case 2: gop = gop_spwn_rubeeSilver; break;
+                case 3: gop = gop_spwn_megaHeart; break;
+                case 4: gop = gop_spwn_hearthalf; break;
+                case 5: gop = gop_spwn_heart; break;
+                default: gop = gop_spwn_rubee; break;
+            }
+            go = Instantiate(gop, startAleaSpawn.position + new Vector3(rx, ry, rz), Quaternion.identity, MNG_Game.instance.cnt_main.transform);
+        }
+        Invoke("BuildNav", 0.1f);
     }
     public void BuildNav()
     {
@@ -116,26 +135,22 @@ public class MNG_Game : MonoBehaviour
 
     public Texture2D tex_cursor;
 
-    public GameObject gop_rubee;
-    public GameObject gop_rubeeSilver;
-    public GameObject gop_rubeeGold;
-    public GameObject gop_heart;
-    public GameObject gop_hearthalf;
-    public GameObject gop_megaHeart;
-    public GameObject gop_bomb;
+    public GameObject gop_spwn_Player;
+    public GameObject gop_spwn_PNJ;
+    public GameObject gop_spwn_rubee;
+    public GameObject gop_spwn_rubeeSilver;
+    public GameObject gop_spwn_rubeeGold;
+    public GameObject gop_spwn_heart;
+    public GameObject gop_spwn_hearthalf;
+    public GameObject gop_spwn_megaHeart;
 
     public void StartNewGame()
     {
         print("IMPLEMENT NEW GAME HERE");
-        spwn_player.Spawn();
         setPause(false);
-        for (int i = 0; i < spwn_enemies.Length; i++) spwn_enemies[i].Spawn();
-        for (int i = 0; i < spwn_objects.Length; i++) spwn_objects[i].Spawn();
+        foreach (var spwn in spwn_objects) spwn.Spawn();
     }
 
     public GameObject cnt_main;
-
-    public SPAWNER spwn_player;
-    public SPAWNER[] spwn_enemies;
-    public SPAWNER[] spwn_objects;
+    public List<SPAWNER> spwn_objects = new List<SPAWNER>();
 }

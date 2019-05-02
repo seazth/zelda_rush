@@ -7,7 +7,7 @@ public class TRG_Damager : TRG
     public int amount = 1;
     public float pushFactor = 1;
     public float push_Y = 0.1f;
-    [EnumFlagsAttribute]
+    //[EnumFlagsAttribute]
     public Team Team_Damageable = Team.Monster ^ Team.Neutral ^ Team.Player;
     //public Actor ActorAppartenance;
 

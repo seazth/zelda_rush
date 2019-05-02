@@ -1,12 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.AI;
+//using UnityEditor.AI;
 using UnityEngine;
+using UnityEngine.AI;
 using UnityEngine.SceneManagement;
 
 public class MNG_Game : MonoBehaviour
 {
     public static MNG_Game instance { get; private set; }
+    public NavBuilder navbuilder;
     private void Awake()
     {
         inPause = true;
@@ -14,16 +16,23 @@ public class MNG_Game : MonoBehaviour
         pnl_mainmenu.SetActive(true);
 
         print("MNG_Game : LOADED");
-        
+
 
         Cursor.SetCursor(tex_cursor, Vector2.zero, CursorMode.Auto);
     }
 
-
     public void InitNavMesh()
     {
+        Invoke("BuildNav", 1f);
+    }
+    public void BuildNav()
+    {
         print("MNG_Game : NAVMESH - INIT");
-        NavMeshBuilder.BuildNavMesh();
+        Debug.Log("Build " + Time.realtimeSinceStartup.ToString());
+        navbuilder.Build();
+        Debug.Log("Build finished " + Time.realtimeSinceStartup.ToString());
+        Debug.Log("Update " + Time.realtimeSinceStartup.ToString());
+        navbuilder.UpdateNavmeshData();
         print("MNG_Game : NAVMESH - DONE");
     }
     private void Update()
@@ -59,7 +68,7 @@ public class MNG_Game : MonoBehaviour
                 pnl_mainmenu.SetActive(false);
                 break;
             case "BTN_DEATHRETURNMAIN":
-                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex,LoadSceneMode.Single);
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex, LoadSceneMode.Single);
                 /*
                 pnl_mainmenu.SetActive(true);
                 pnl_gameover.SetActive(false);

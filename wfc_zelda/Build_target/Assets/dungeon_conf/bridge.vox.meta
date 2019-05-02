@@ -1,0 +1,66 @@
+fileFormatVersion: 2
+guid: 40c2ac8a66034024aa6af7e7dd032b27
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: vox layers/New Game Object
+    100002: vox layers/New Game Object/frame 0 layer 0
+    100004: vox layers/New Game Object/frame 0 layer 1
+    100006: vox layers/New Game Object/frame 0 layer 2
+    100008: vox layers/New Game Object/frame 0 layer 3
+    100010: vox layers/New Game Object/frame 0 layer 4
+    100012: vox layers/New Game Object/frame 0 layer 5
+    100014: vox layers/New Game Object/frame 0 layer 6
+    100016: vox layers/New Game Object/frame 0 layer 7
+    100018: vox layers/New Game Object/frame 0 layer 8
+    100020: vox layers/New Game Object/frame 0 layer 9
+    400000: vox layers/New Game Object/Transform
+    400002: vox layers/New Game Object/frame 0 layer 0/Transform
+    400004: vox layers/New Game Object/frame 0 layer 1/Transform
+    400006: vox layers/New Game Object/frame 0 layer 2/Transform
+    400008: vox layers/New Game Object/frame 0 layer 3/Transform
+    400010: vox layers/New Game Object/frame 0 layer 4/Transform
+    400012: vox layers/New Game Object/frame 0 layer 5/Transform
+    400014: vox layers/New Game Object/frame 0 layer 6/Transform
+    400016: vox layers/New Game Object/frame 0 layer 7/Transform
+    400018: vox layers/New Game Object/frame 0 layer 8/Transform
+    400020: vox layers/New Game Object/frame 0 layer 9/Transform
+    2800000: layer texture atlas
+    11400000: vox layers/New Game Object/MonoBehaviour-VoxRotator
+    21200000: vox layers/New Game Object/frame 0 layer 0/SpriteRenderer
+    21200002: vox layers/New Game Object/frame 0 layer 1/SpriteRenderer
+    21200004: vox layers/New Game Object/frame 0 layer 2/SpriteRenderer
+    21200006: vox layers/New Game Object/frame 0 layer 3/SpriteRenderer
+    21200008: vox layers/New Game Object/frame 0 layer 4/SpriteRenderer
+    21200010: vox layers/New Game Object/frame 0 layer 5/SpriteRenderer
+    21200012: vox layers/New Game Object/frame 0 layer 6/SpriteRenderer
+    21200014: vox layers/New Game Object/frame 0 layer 7/SpriteRenderer
+    21200016: vox layers/New Game Object/frame 0 layer 8/SpriteRenderer
+    21200018: vox layers/New Game Object/frame 0 layer 9/SpriteRenderer
+    21300000: frame 0 layer sprite 0
+    21300002: frame 0 layer sprite 1
+    21300004: frame 0 layer sprite 2
+    21300006: frame 0 layer sprite 3
+    21300008: frame 0 layer sprite 4
+    21300010: frame 0 layer sprite 5
+    21300012: frame 0 layer sprite 6
+    21300014: frame 0 layer sprite 7
+    21300016: frame 0 layer sprite 8
+    21300018: frame 0 layer sprite 9
+    100100000: vox layers
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f4119cf89bf724b4098ad2cf63ca2a1c, type: 3}
+  importMode: 0
+  pixelsPerUnit: 32
+  animated: 0
+  generateShadow: 0
+  shadowColor: {r: 0.2, g: 0.2, b: 0.2, a: 0.6}
+  atlasSize: 2048
+  useOutline: 0
+  outlineSize: 0
+  outlineColor: {r: 0, g: 0, b: 0, a: 1}
+  shadowAngle: 0
+  layeredShader: {instanceID: 0}
+  startingLayer: 0

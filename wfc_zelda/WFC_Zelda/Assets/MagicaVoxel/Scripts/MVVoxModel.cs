@@ -156,7 +156,7 @@ public class MVVoxModel : MonoBehaviour
         if (reimportOnStart)
         {
             LoadVOXFile(filePath2, ed_importAsIndividualVoxels);
-            GameObjectUtility.SetStaticEditorFlags(transform.GetChild(0).gameObject,
+            /*GameObjectUtility.SetStaticEditorFlags(transform.GetChild(0).gameObject,
                 StaticEditorFlags.BatchingStatic
                 ^ StaticEditorFlags.LightmapStatic
                 ^ StaticEditorFlags.NavigationStatic
@@ -164,6 +164,7 @@ public class MVVoxModel : MonoBehaviour
                 ^ StaticEditorFlags.OccluderStatic
                 ^ StaticEditorFlags.OffMeshLinkGeneration
                 ^ StaticEditorFlags.ReflectionProbeStatic);
+                */
             MNG_Game.instance.InitNavMesh();
         }
     }

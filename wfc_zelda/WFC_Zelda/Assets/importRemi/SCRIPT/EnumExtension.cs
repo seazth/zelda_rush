@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
-
+/*
 public class EnumFlagsAttribute : PropertyAttribute
 {
     public EnumFlagsAttribute() { }
 }
+
 [CustomPropertyDrawer(typeof(EnumFlagsAttribute))]
 public class EnumFlagsAttributeDrawer : PropertyDrawer
 {
@@ -28,3 +29,4 @@ public static class EnumExtension
         return res.ToArray();
     }
 }
+*/
